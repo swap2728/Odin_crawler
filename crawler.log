@@ -1,0 +1,1973 @@
+2025-03-08 15:52:58,146 - /home/nexgensis/Downloads/odin_k/odin_crawler_backend/odin_backend/odin_backend/settings.py changed, reloading.
+2025-03-08 15:53:00,180 - /home/nexgensis/Downloads/odin_k/odin_crawler_backend/odin_backend/odin_backend/settings.py changed, reloading.
+2025-03-08 16:03:18,190 - Not Found: /
+2025-03-08 16:03:18,383 - Not Found: /favicon.ico
+2025-03-08 16:03:20,414 - Not Found: /
+2025-03-08 16:06:27,976 - Not Found: /
+2025-03-08 16:06:29,317 - Not Found: /
+2025-03-08 16:06:32,678 - Not Found: /
+2025-03-08 16:07:50,264 - 📥 Received request: {"keyword":"geopolitical"}
+2025-03-08 16:07:52,183 - response: https://html.duckduckgo.com/html 200
+2025-03-08 16:07:53,483 - response: https://html.duckduckgo.com/html 200
+2025-03-08 16:07:55,049 - response: https://html.duckduckgo.com/html 200
+2025-03-08 16:07:56,278 - response: https://html.duckduckgo.com/html 200
+2025-03-08 16:07:57,448 - response: https://html.duckduckgo.com/html 200
+2025-03-08 16:08:03,373 - 📥 Received request: {"keyword":"geopolitical","url":"geopolitical"}
+2025-03-08 16:08:04,265 - response: https://html.duckduckgo.com/html 200
+2025-03-08 16:08:05,699 - response: https://html.duckduckgo.com/html 200
+2025-03-08 16:08:06,927 - response: https://html.duckduckgo.com/html 200
+2025-03-08 16:08:08,156 - response: https://html.duckduckgo.com/html 200
+2025-03-08 16:08:09,357 - response: https://html.duckduckgo.com/html 200
+2025-03-08 16:08:30,640 - 📥 Received request: {"url":"https://www.nykaa.com"}
+2025-03-08 16:11:17,818 - 📥 Received request: {"keyword":"nykaa"}
+2025-03-08 16:11:19,228 - response: https://html.duckduckgo.com/html 200
+2025-03-08 16:11:20,549 - response: https://html.duckduckgo.com/html 200
+2025-03-08 16:11:21,994 - response: https://html.duckduckgo.com/html 200
+2025-03-08 16:11:23,464 - response: https://html.duckduckgo.com/html 200
+2025-03-08 16:11:24,679 - response: https://html.duckduckgo.com/html 200
+2025-03-08 16:11:50,950 - Not Found: /
+2025-03-08 16:12:23,334 - /home/nexgensis/Downloads/odin_k/odin_crawler_backend/odin_backend/odin_backend/settings.py changed, reloading.
+2025-03-08 16:12:37,094 - Not Found: /
+2025-03-08 18:04:54,899 - Not Found: /
+2025-03-08 18:05:41,262 - Not Found: /
+2025-03-08 18:26:44,271 - 📥 Received request: {"keyword":"google"}
+2025-03-08 18:26:45,457 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:26:46,733 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:26:47,958 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:26:49,111 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:26:50,267 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:27:04,351 - 📥 Received request: {"url":"google"}
+2025-03-08 18:27:04,352 - ❌ Error fetching google: Invalid URL 'google': No scheme supplied. Perhaps you meant https://google?
+2025-03-08 18:27:16,624 - 📥 Received request: {"url":"http://www.google.com"}
+2025-03-08 18:31:32,956 - 📥 Received request: {"keyword":"python"}
+2025-03-08 18:31:34,152 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-08 18:31:35,429 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-08 18:31:36,659 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-08 18:31:37,855 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-08 18:31:39,039 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-08 18:31:48,000 - 📥 Received request: {"url":"python"}
+2025-03-08 18:31:48,001 - ❌ Error fetching python: Invalid URL 'python': No scheme supplied. Perhaps you meant https://python?
+2025-03-08 18:32:06,273 - 📥 Received request: {"keyword":"python"}
+2025-03-08 18:32:07,177 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-08 18:32:08,455 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-08 18:32:09,657 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-08 18:32:10,856 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-08 18:32:12,056 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-08 18:39:41,511 - 📥 Received request: {"keyword":"python"}
+2025-03-08 18:39:42,459 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:39:43,768 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:39:44,983 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:39:46,239 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:39:47,435 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:43:21,875 - 📥 Received request: {"keyword":"python"}
+2025-03-08 18:43:23,020 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:43:24,382 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:43:25,624 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:43:26,834 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:43:27,979 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:47:40,214 - 📥 Received request: {"keyword":"python"}
+2025-03-08 18:47:41,224 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-08 18:47:42,397 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-08 18:47:43,646 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-08 18:47:44,893 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-08 18:47:46,071 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-08 18:47:55,563 - 📥 Received request: {"keyword":"google"}
+2025-03-08 18:47:56,568 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:47:57,776 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:47:58,944 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:48:00,126 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:48:01,285 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:48:25,689 - 📥 Received request: {"url":"www.google.com"}
+2025-03-08 18:48:25,690 - ❌ Error fetching www.google.com: Invalid URL 'www.google.com': No scheme supplied. Perhaps you meant https://www.google.com?
+2025-03-08 18:48:31,366 - 📥 Received request: {"url":"http://www.google.com"}
+2025-03-08 18:49:23,313 - 📥 Received request: {"keyword":"google"}
+2025-03-08 18:49:24,164 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:49:25,441 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:49:26,591 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:49:27,719 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:49:28,973 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:56:26,828 - 📥 Received request: {"keyword":"google"}
+2025-03-08 18:56:27,674 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:56:28,810 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:56:29,940 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:56:31,115 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:56:32,240 - response: https://html.duckduckgo.com/html 200
+2025-03-08 18:57:00,499 - 📥 Received request: {"url":"http://www.google.com"}
+2025-03-08 18:57:14,039 - 📥 Received request: {"url":"https://www.google.com"}
+2025-03-08 18:57:33,285 - 📥 Received request: {"url":"https://www.xvideos.com"}
+2025-03-08 18:57:50,519 - ❌ Error fetching https://www.xvideos.com: HTTPSConnectionPool(host='www.xvideos.com', port=443): Read timed out. (read timeout=10)
+2025-03-08 18:58:11,404 - 📥 Received request: {"url":"https://www.nexgensis.com"}
+2025-03-08 18:59:10,407 - 📥 Received request: {"url":"https://www.xhamster.com"}
+2025-03-08 18:59:20,458 - ❌ Error fetching https://www.xhamster.com: HTTPSConnectionPool(host='www.xhamster.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x751a6886c3a0>, 'Connection to www.xhamster.com timed out. (connect timeout=10)'))
+2025-03-09 02:16:56,702 - Not Found: /
+2025-03-09 02:16:56,939 - Not Found: /favicon.ico
+2025-03-09 10:10:21,226 - \U0001f4e5 Received request: {"url":"https://www.nykaa.com/"}
+2025-03-09 10:10:46,080 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 10:10:47,156 - response: https://html.duckduckgo.com/html 200
+2025-03-09 10:10:48,691 - response: https://html.duckduckgo.com/html 200
+2025-03-09 10:10:50,024 - response: https://html.duckduckgo.com/html 200
+2025-03-09 10:10:51,248 - response: https://html.duckduckgo.com/html 200
+2025-03-09 10:10:52,583 - response: https://html.duckduckgo.com/html 200
+2025-03-09 10:11:32,911 - \U0001f4e5 Received request: {"url":"https://www.nykaa.com/"}
+2025-03-09 10:15:10,889 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 10:15:12,170 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 10:15:13,408 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 10:15:14,734 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 10:15:16,061 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 10:15:17,287 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 10:27:51,831 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 10:27:52,805 - response: https://html.duckduckgo.com/html 200
+2025-03-09 10:27:54,133 - response: https://html.duckduckgo.com/html 200
+2025-03-09 10:27:55,478 - response: https://html.duckduckgo.com/html 200
+2025-03-09 10:27:56,702 - response: https://html.duckduckgo.com/html 200
+2025-03-09 10:27:58,038 - response: https://html.duckduckgo.com/html 200
+2025-03-09 10:44:43,206 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 10:44:44,214 - response: https://html.duckduckgo.com/html 200
+2025-03-09 10:44:45,443 - response: https://html.duckduckgo.com/html 200
+2025-03-09 10:44:46,684 - response: https://html.duckduckgo.com/html 200
+2025-03-09 10:44:48,003 - response: https://html.duckduckgo.com/html 200
+2025-03-09 10:44:49,333 - response: https://html.duckduckgo.com/html 200
+2025-03-09 10:47:55,043 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 10:47:56,010 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 10:47:57,313 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 10:47:58,586 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 10:47:59,802 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 10:48:01,131 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 10:55:22,715 - C:\Users\kalya\OneDrive\Desktop\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-09 10:55:38,462 - C:\Users\kalya\OneDrive\Desktop\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-09 10:56:02,774 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 10:56:03,851 - response: https://html.duckduckgo.com/html 200
+2025-03-09 10:56:05,177 - response: https://html.duckduckgo.com/html 200
+2025-03-09 10:56:06,482 - response: https://html.duckduckgo.com/html 200
+2025-03-09 10:56:07,743 - response: https://html.duckduckgo.com/html 200
+2025-03-09 10:56:08,984 - response: https://html.duckduckgo.com/html 200
+2025-03-09 10:56:08,992 - \u2705 Links saved to C:\Users\kalya\OneDrive\Desktop\Astraeus_Extracted_Links\Astraeus_extracted_links.csv
+2025-03-09 10:58:46,353 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 10:58:47,381 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 10:58:48,724 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 10:58:50,051 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 10:58:51,340 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 10:58:52,547 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 10:58:52,560 - \u274c Failed to save CSV: [Errno 13] Permission denied: 'C:\\Users\\kalya\\OneDrive\\Desktop\\Astraeus_Extracted_Links\\Astraeus_extracted_links.csv'
+2025-03-09 11:00:26,599 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 11:00:27,632 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 11:00:28,880 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 11:00:30,196 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 11:00:31,404 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 11:00:32,755 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 11:00:32,763 - \u274c Failed to save CSV: [Errno 13] Permission denied: 'C:\\Users\\kalya\\OneDrive\\Desktop\\Astraeus_Extracted_Links\\Astraeus_extracted_links.csv'
+2025-03-09 11:00:48,266 - \U0001f4e5 Received request: {"url":"https://www.controlrisks.com/our-thinking/insights/japans-changing-narrative-investment-risks-and-opportunities"}
+2025-03-09 11:00:50,425 - Bad Request: /api/crawl/
+2025-03-09 11:05:49,839 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 11:05:50,779 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 11:05:51,978 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 11:05:53,225 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 11:05:54,418 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 11:05:55,634 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 11:06:27,658 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors","url":"https://www.crunchbase.com/"}
+2025-03-09 11:06:28,608 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 11:06:29,928 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 11:06:31,259 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 11:06:32,700 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 11:06:34,023 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 11:06:40,574 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors","url":"https://www.crunchbase.com/"}
+2025-03-09 11:06:50,589 - Error to search using html backend: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): operation timed out
+
+Caused by:
+    operation timed out
+2025-03-09 11:07:01,352 - Error to search using lite backend: https://lite.duckduckgo.com/lite/ RuntimeError: error sending request for url (https://lite.duckduckgo.com/lite/): operation timed out
+
+Caused by:
+    operation timed out
+2025-03-09 11:07:01,353 - Error in DuckDuckGo search: https://lite.duckduckgo.com/lite/ RuntimeError: error sending request for url (https://lite.duckduckgo.com/lite/): operation timed out
+
+Caused by:
+    operation timed out
+2025-03-09 11:07:07,677 - \U0001f4e5 Received request: {"url":"https://www.crunchbase.com/"}
+2025-03-09 11:07:18,874 - \u274c Error fetching https://www.crunchbase.com/: 403 Client Error: Forbidden for url: https://www.crunchbase.com/
+2025-03-09 11:08:16,590 - \U0001f4e5 Received request: {"url":"https://www.nykaa.com/"}
+2025-03-09 11:08:51,613 - \U0001f4e5 Received request: {"url":"https://www.reuters.com/"}
+2025-03-09 11:09:00,276 - \u274c Error fetching https://www.reuters.com/: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/
+2025-03-09 11:09:19,726 - \U0001f4e5 Received request: {"url":"https://www.reuters.com"}
+2025-03-09 11:09:19,796 - \u274c Error fetching https://www.reuters.com: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/
+2025-03-09 11:09:21,026 - \U0001f4e5 Received request: {"url":"https://www.reuters.com"}
+2025-03-09 11:09:21,098 - \u274c Error fetching https://www.reuters.com: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/
+2025-03-09 11:09:21,806 - \U0001f4e5 Received request: {"url":"https://www.reuters.com"}
+2025-03-09 11:09:21,868 - \u274c Error fetching https://www.reuters.com: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/
+2025-03-09 11:09:34,610 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 11:09:44,625 - Error to search using lite backend: https://lite.duckduckgo.com/lite/ RuntimeError: error sending request for url (https://lite.duckduckgo.com/lite/): operation timed out
+
+Caused by:
+    operation timed out
+2025-03-09 11:09:55,405 - Error to search using html backend: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): operation timed out
+
+Caused by:
+    operation timed out
+2025-03-09 11:09:55,406 - Error in DuckDuckGo search: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): operation timed out
+
+Caused by:
+    operation timed out
+2025-03-09 11:10:23,326 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 11:10:33,327 - Error to search using lite backend: https://lite.duckduckgo.com/lite/ RuntimeError: error sending request for url (https://lite.duckduckgo.com/lite/): operation timed out
+
+Caused by:
+    operation timed out
+2025-03-09 11:10:44,090 - Error to search using html backend: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): operation timed out
+
+Caused by:
+    operation timed out
+2025-03-09 11:10:44,090 - Error in DuckDuckGo search: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): operation timed out
+
+Caused by:
+    operation timed out
+2025-03-09 11:13:57,384 - C:\Users\kalya\OneDrive\Desktop\odin_crawler_backend\odin_backend\crawler\scraper.py changed, reloading.
+2025-03-09 11:14:01,438 - C:\Users\kalya\OneDrive\Desktop\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-09 11:15:28,179 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 11:15:29,141 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:15:30,446 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:15:31,655 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:15:32,882 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:15:34,120 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:15:58,497 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors","url":"https://www.crunchbase.com/"}
+2025-03-09 11:16:08,505 - Error to search using lite backend: https://lite.duckduckgo.com/lite/ RuntimeError: error sending request for url (https://lite.duckduckgo.com/lite/): operation timed out
+
+Caused by:
+    operation timed out
+2025-03-09 11:16:10,221 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:16:11,545 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:16:12,869 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:16:14,075 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:16:15,313 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:16:27,997 - \U0001f4e5 Received request: {"url":"https://www.crunchbase.com/"}
+2025-03-09 11:16:28,132 - \u274c Error fetching https://www.crunchbase.com/: 403 Client Error: Forbidden for url: https://www.crunchbase.com/
+2025-03-09 11:16:30,718 - \U0001f4e5 Received request: {"url":"https://www.crunchbase.com"}
+2025-03-09 11:16:30,839 - \u274c Error fetching https://www.crunchbase.com: 403 Client Error: Forbidden for url: https://www.crunchbase.com/
+2025-03-09 11:16:47,154 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 11:16:57,158 - Error to search using html backend: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): operation timed out
+
+Caused by:
+    operation timed out
+2025-03-09 11:17:07,924 - Error to search using lite backend: https://lite.duckduckgo.com/lite/ RuntimeError: error sending request for url (https://lite.duckduckgo.com/lite/): operation timed out
+
+Caused by:
+    operation timed out
+2025-03-09 11:17:07,924 - Error in DuckDuckGo search: https://lite.duckduckgo.com/lite/ RuntimeError: error sending request for url (https://lite.duckduckgo.com/lite/): operation timed out
+
+Caused by:
+    operation timed out
+2025-03-09 11:17:39,199 - C:\Users\kalya\OneDrive\Desktop\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-09 11:17:47,262 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 11:17:48,366 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 11:17:49,572 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 11:17:50,798 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 11:17:52,004 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 11:17:53,226 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 11:17:53,232 - \u274c Failed to save CSV: [Errno 13] Permission denied: 'C:\\Users\\kalya\\OneDrive\\Desktop\\Astraeus_Extracted_Links\\Astraeus_extracted_links.csv'
+2025-03-09 11:19:18,484 - \U0001f4e5 Received request: {"url":"https://www.mckinsey.com/"}
+2025-03-09 11:19:18,687 - Bad Request: /api/crawl/
+2025-03-09 11:25:09,060 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 11:25:10,090 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:25:11,317 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:25:12,538 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:25:13,792 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:25:15,071 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:25:15,081 - \u274c Failed to save CSV: [Errno 13] Permission denied: 'C:\\Users\\kalya\\OneDrive\\Desktop\\Astraeus_Extracted_Links\\Astraeus_extracted_links.csv'
+2025-03-09 11:25:38,783 - \U0001f4e5 Received request: {"url":"https://economictimes.indiatimes.com/topic/geopolitical-changes"}
+2025-03-09 11:25:39,131 - Bad Request: /api/crawl/
+2025-03-09 11:25:46,450 - \U0001f4e5 Received request: {"url":"https://economictimes.indiatimes.com/"}
+2025-03-09 11:25:46,818 - Bad Request: /api/crawl/
+2025-03-09 11:26:24,906 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 11:26:25,825 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:26:27,027 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:26:28,228 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:26:29,472 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:26:30,766 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:26:30,789 - \u274c Failed to save CSV: [Errno 13] Permission denied: 'C:\\Users\\kalya\\OneDrive\\Desktop\\Astraeus_Extracted_Links\\Astraeus_extracted_links.csv'
+2025-03-09 11:26:33,984 - \U0001f4e5 Received request: {"keyword": "test"}
+2025-03-09 11:26:34,768 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:26:36,107 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:26:37,308 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:26:38,523 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:26:39,676 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:26:39,683 - \u274c Failed to save CSV: [Errno 13] Permission denied: 'C:\\Users\\kalya\\OneDrive\\Desktop\\Astraeus_Extracted_Links\\Astraeus_extracted_links.csv'
+2025-03-09 11:26:56,271 - \U0001f4e5 Received request: {"url":"https://economictimes.indiatimes.com/topic/geopolitical-changes"}
+2025-03-09 11:26:56,676 - Bad Request: /api/crawl/
+2025-03-09 11:34:59,667 - \U0001f4e5 Received request: {"keyword":"google"}
+2025-03-09 11:35:00,561 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:35:01,725 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:35:02,885 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:35:03,995 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:35:05,141 - response: https://html.duckduckgo.com/html 200
+2025-03-09 11:35:05,146 - \u274c Failed to save CSV: [Errno 13] Permission denied: 'C:\\Users\\kalya\\OneDrive\\Desktop\\Astraeus_Extracted_Links\\Astraeus_extracted_links.csv'
+2025-03-09 11:35:43,067 - \U0001f4e5 Received request: {"url":"https://images.google.us/"}
+2025-03-09 11:35:43,845 - Bad Request: /api/crawl/
+2025-03-09 11:36:42,010 - \U0001f4e5 Received request: {"keyword":"google"}
+2025-03-09 11:36:42,957 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 11:36:44,116 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 11:36:45,486 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 11:36:46,578 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 11:36:47,750 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 11:36:47,752 - \u274c Failed to save CSV: [Errno 13] Permission denied: 'C:\\Users\\kalya\\OneDrive\\Desktop\\Astraeus_Extracted_Links\\Astraeus_extracted_links.csv'
+2025-03-09 11:37:00,927 - \U0001f4e5 Received request: {"url":"https://lens.google/"}
+2025-03-09 11:37:01,180 - Bad Request: /api/crawl/
+2025-03-09 11:50:30,405 - C:\Users\kalya\OneDrive\Desktop\odin_crawler_backend\odin_backend\crawler\scraper.py changed, reloading.
+2025-03-09 15:50:19,905 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 15:50:21,320 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 15:50:22,553 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 15:50:23,746 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 15:50:25,004 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 15:50:26,336 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 15:50:26,384 - \u2705 Links saved to C:\Users\kalya\OneDrive\Desktop\Astraeus_Extracted_Links\Astraeus_extracted_links.csv
+2025-03-09 15:51:17,108 - \U0001f4e5 Received request: {"url":"https://www.japan.go.jp/"}
+2025-03-09 15:51:17,247 - Bad Request: /api/crawl/
+2025-03-09 15:56:45,805 - C:\Users\kalya\OneDrive\Desktop\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-09 15:57:35,088 - \U0001f4e5 Received request: {"url":"https://www.japan.go.jp/"}
+2025-03-09 15:58:27,981 - \U0001f4e5 Received request: {"url":"https://www.japan.travel/en/japan-photo-and-video-library/"}
+2025-03-09 15:58:50,884 - \U0001f4e5 Received request: {"keyword":"Cybersecurity Investigation"}
+2025-03-09 15:58:51,893 - response: https://html.duckduckgo.com/html 200
+2025-03-09 15:58:53,324 - response: https://html.duckduckgo.com/html 200
+2025-03-09 15:58:54,653 - response: https://html.duckduckgo.com/html 200
+2025-03-09 15:58:55,986 - response: https://html.duckduckgo.com/html 200
+2025-03-09 15:58:57,218 - response: https://html.duckduckgo.com/html 200
+2025-03-09 15:59:08,581 - \U0001f4e5 Received request: {"keyword":"Cybersecurity Investigation","url":"https://www.maryman.com/"}
+2025-03-09 15:59:18,630 - Error to search using lite backend: https://lite.duckduckgo.com/lite/ RuntimeError: error sending request for url (https://lite.duckduckgo.com/lite/): operation timed out
+
+Caused by:
+    operation timed out
+2025-03-09 15:59:29,393 - Error to search using html backend: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): operation timed out
+
+Caused by:
+    operation timed out
+2025-03-09 15:59:29,393 - Error in DuckDuckGo search: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): operation timed out
+
+Caused by:
+    operation timed out
+2025-03-09 15:59:34,366 - \U0001f4e5 Received request: {"url":"https://www.maryman.com/"}
+2025-03-09 16:14:23,805 - C:\Users\kalya\OneDrive\Desktop\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-09 16:15:08,322 - \U0001f4e5 Received request: {"keyword":"Cybersecurity"}
+2025-03-09 16:15:09,204 - response: https://html.duckduckgo.com/html 200
+2025-03-09 16:15:10,633 - response: https://html.duckduckgo.com/html 200
+2025-03-09 16:15:11,970 - response: https://html.duckduckgo.com/html 200
+2025-03-09 16:15:13,195 - response: https://html.duckduckgo.com/html 200
+2025-03-09 16:15:14,426 - response: https://html.duckduckgo.com/html 200
+2025-03-09 16:15:14,469 - \u2705 Data saved to C:\Users\kalya\OneDrive\Desktop\Astraeus_Extracted_Links\Astraeus_scraped_links.csv
+2025-03-09 16:15:24,699 - \U0001f4e5 Received request: {"url":"https://www.comptia.org/content/articles/what-is-cybersecurityhttps://www.comptia.org/content/articles/what-is-cybersecurity"}
+2025-03-09 16:16:29,340 - C:\Users\kalya\OneDrive\Desktop\odin_crawler_backend\odin_backend\crawler\scraper.py changed, reloading.
+2025-03-09 16:18:40,301 - \U0001f4e5 Received request: {"keyword":"Cybersecurity Investigation"}
+2025-03-09 16:18:41,600 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:18:42,890 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:18:44,152 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:18:45,483 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:18:46,806 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:18:46,819 - \u2705 Data saved to C:\Users\kalya\OneDrive\Desktop\Astraeus_Extracted_Links\Astraeus_scraped_links.csv
+2025-03-09 16:19:05,387 - \U0001f4e5 Received request: {"url":"https://graylog.org/post/how-to-investigate-faster/"}
+2025-03-09 16:19:29,381 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 16:19:30,734 - response: https://html.duckduckgo.com/html 200
+2025-03-09 16:19:32,166 - response: https://html.duckduckgo.com/html 200
+2025-03-09 16:19:33,396 - response: https://html.duckduckgo.com/html 200
+2025-03-09 16:19:34,626 - response: https://html.duckduckgo.com/html 200
+2025-03-09 16:19:35,964 - response: https://html.duckduckgo.com/html 200
+2025-03-09 16:19:35,974 - \u2705 Data saved to C:\Users\kalya\OneDrive\Desktop\Astraeus_Extracted_Links\Astraeus_scraped_links.csv
+2025-03-09 16:19:44,824 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors","url":"https://www.eurasiagroup.net/issues/Top-Risks-2025-Implications-for-Japanhttps://www.eurasiagroup.net/issues/Top-Risks-2025-Implications-for-Japan"}
+2025-03-09 16:19:45,889 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:19:47,118 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:19:48,347 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:19:49,575 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:19:50,804 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:19:50,827 - \u2705 Data saved to C:\Users\kalya\OneDrive\Desktop\Astraeus_Extracted_Links\Astraeus_scraped_links.csv
+2025-03-09 16:19:54,200 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors","url":"https://www.eurasiagroup.net/issues/Top-Risks-2025-Implications-for-Japanhttps://www.eurasiagroup.net/issues/Top-Risks-2025-Implications-for-Japan"}
+2025-03-09 16:19:55,104 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:19:56,353 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:19:57,675 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:19:59,014 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:20:00,224 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:20:00,229 - \u2705 Data saved to C:\Users\kalya\OneDrive\Desktop\Astraeus_Extracted_Links\Astraeus_scraped_links.csv
+2025-03-09 16:20:01,820 - \U0001f4e5 Received request: {"url":"https://www.eurasiagroup.net/issues/Top-Risks-2025-Implications-for-Japanhttps://www.eurasiagroup.net/issues/Top-Risks-2025-Implications-for-Japan"}
+2025-03-09 16:20:02,989 - \u274c Error fetching https://www.eurasiagroup.net/issues/Top-Risks-2025-Implications-for-Japanhttps://www.eurasiagroup.net/issues/Top-Risks-2025-Implications-for-Japan: 404 Client Error: Page Not Found for url: https://www.eurasiagroup.net/issues/Top-Risks-2025-Implications-for-Japanhttps://www.eurasiagroup.net/issues/Top-Risks-2025-Implications-for-Japan
+2025-03-09 16:20:13,599 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 16:20:14,664 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:20:15,896 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:20:17,227 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:20:18,467 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:20:19,784 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:20:19,794 - \u2705 Data saved to C:\Users\kalya\OneDrive\Desktop\Astraeus_Extracted_Links\Astraeus_scraped_links.csv
+2025-03-09 16:20:30,810 - \U0001f4e5 Received request: {"url":"https://infortal.com/solutions/global-risk-intelligence/geopolitical-risk/country-risk/japan-country-report/"}
+2025-03-09 16:33:18,476 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 16:33:19,666 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:33:20,896 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:33:22,126 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:33:23,374 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:33:24,580 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:33:24,590 - \u2705 Data saved to C:\Users\kalya\OneDrive\Desktop\Astraeus_Extracted_Links\Astraeus_scraped_links.csv
+2025-03-09 16:33:45,855 - \U0001f4e5 Received request: {"url":" https://asia.nikkei.com/Business/Markets/Yen-oil-rally-Japan-stocks-fall-as-geopolitical-tensions-flare"}
+2025-03-09 16:37:35,159 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 16:37:36,183 - response: https://html.duckduckgo.com/html 200
+2025-03-09 16:37:37,410 - response: https://html.duckduckgo.com/html 200
+2025-03-09 16:37:38,639 - response: https://html.duckduckgo.com/html 200
+2025-03-09 16:37:40,048 - response: https://html.duckduckgo.com/html 200
+2025-03-09 16:37:41,256 - response: https://html.duckduckgo.com/html 200
+2025-03-09 16:37:41,267 - \u2705 Data saved to C:\Users\kalya\OneDrive\Desktop\Astraeus_Extracted_Links\Astraeus_scraped_links.csv
+2025-03-09 16:38:03,153 - \U0001f4e5 Received request: {"url":"https://geopoliticaleconomy.com/2025/02/13/politics-gold-price-economist-michael-hudson/"}
+2025-03-09 16:42:14,867 - C:\Users\kalya\OneDrive\Desktop\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-09 16:42:34,199 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 16:42:35,190 - response: https://html.duckduckgo.com/html 200
+2025-03-09 16:42:36,419 - response: https://html.duckduckgo.com/html 200
+2025-03-09 16:42:37,980 - response: https://html.duckduckgo.com/html 200
+2025-03-09 16:42:39,186 - response: https://html.duckduckgo.com/html 200
+2025-03-09 16:42:40,413 - response: https://html.duckduckgo.com/html 200
+2025-03-09 16:42:40,427 - \u2705 Data saved to C:\Users\kalya\OneDrive\Desktop\Astraeus_Extracted_Links\Astraeus_scraped_links.csv
+2025-03-09 16:43:01,261 - \U0001f4e5 Received request: {"url":"https://www.allianzgi.com/en/insights/outlook-and-commentary/outlook-2025"}
+2025-03-09 16:44:21,889 - C:\Users\kalya\OneDrive\Desktop\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-09 16:44:41,070 - \U0001f4e5 Received request: {"keyword":"Cybersecurity Defense"}
+2025-03-09 16:44:42,066 - response: https://html.duckduckgo.com/html 200
+2025-03-09 16:44:43,403 - response: https://html.duckduckgo.com/html 200
+2025-03-09 16:44:44,730 - response: https://html.duckduckgo.com/html 200
+2025-03-09 16:44:45,957 - response: https://html.duckduckgo.com/html 200
+2025-03-09 16:44:47,187 - response: https://html.duckduckgo.com/html 200
+2025-03-09 16:44:47,207 - \u2705 Data saved to C:\Users\kalya\OneDrive\Desktop\Astraeus_Extracted_Links\Astraeus_scraped_links.csv
+2025-03-09 16:45:05,662 - \U0001f4e5 Received request: {"url":"https://www.stripes.com/theaters/us/2025-03-04/cyber-hegseth-pentagon-russia-17031715.html"}
+2025-03-09 16:46:04,541 - \U0001f4e5 Received request: {"keyword":"Ransomware Attacks"}
+2025-03-09 16:46:05,729 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:46:07,062 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:46:08,289 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:46:09,522 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:46:10,951 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 16:46:10,955 - \u2705 Data saved to C:\Users\kalya\OneDrive\Desktop\Astraeus_Extracted_Links\Astraeus_scraped_links.csv
+2025-03-09 17:02:06,688 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 17:02:07,889 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:02:09,111 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:02:10,352 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:02:11,893 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:02:13,208 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:02:13,215 - \u274c Unexpected Error: [Errno 13] Permission denied: 'C:\\Users\\kalya\\OneDrive\\Desktop\\Astraeus_Extracted_Links\\Astraeus_scraped_links.csv'
+2025-03-09 17:02:13,215 - Internal Server Error: /api/crawl/
+2025-03-09 17:03:27,408 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 17:03:28,370 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:03:29,579 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:03:30,758 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:03:32,055 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:03:33,301 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:03:33,328 - \u274c Unexpected Error: [Errno 13] Permission denied: 'C:\\Users\\kalya\\OneDrive\\Desktop\\Astraeus_Extracted_Links\\Astraeus_scraped_links.csv'
+2025-03-09 17:03:33,329 - Internal Server Error: /api/crawl/
+2025-03-09 17:03:42,895 - C:\Users\kalya\OneDrive\Desktop\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-09 17:03:50,331 - C:\Users\kalya\OneDrive\Desktop\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-09 17:03:59,057 - C:\Users\kalya\OneDrive\Desktop\odin_crawler_backend\odin_backend\crawler\scraper.py changed, reloading.
+2025-03-09 17:04:21,233 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 17:04:22,233 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:04:23,461 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:04:24,792 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:04:26,122 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:04:27,456 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:04:27,475 - \u274c Unexpected Error: [Errno 13] Permission denied: 'C:\\Users\\kalya\\OneDrive\\Desktop\\Astraeus_Extracted_Links\\Astraeus_scraped_links.csv'
+2025-03-09 17:04:27,476 - Internal Server Error: /api/crawl/
+2025-03-09 17:04:38,876 - C:\Users\kalya\OneDrive\Desktop\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-09 17:05:00,575 - \U0001f4e5 Received request: {"keyword":"Geopolitical Investors"}
+2025-03-09 17:05:01,654 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:05:02,889 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:05:04,124 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:05:05,346 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:05:06,675 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:05:20,693 - \U0001f4e5 Received request: {"url":" https://www.sciencedirect.com/science/article/pii/S0969593123000367"}
+2025-03-09 17:05:20,975 - \u274c Error fetching https://www.sciencedirect.com/science/article/pii/S0969593123000367: 403 Client Error: Forbidden for url: https://www.sciencedirect.com/science/article/pii/S0969593123000367
+2025-03-09 17:05:33,269 - C:\Users\kalya\OneDrive\Desktop\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-09 17:05:41,199 - C:\Users\kalya\OneDrive\Desktop\odin_crawler_backend\odin_backend\crawler\scraper.py changed, reloading.
+2025-03-09 17:08:02,296 - \U0001f4e5 Received request: {"keyword":"cybersecurity"}
+2025-03-09 17:08:03,271 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:08:04,447 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:08:05,671 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:08:07,003 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:08:08,234 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:08:08,248 - \u274c Unexpected Error: [Errno 13] Permission denied: 'C:\\Users\\kalya\\OneDrive\\Desktop\\Astraeus_Extracted_Links\\Astraeus_scraped_links.csv'
+2025-03-09 17:08:08,249 - Internal Server Error: /api/crawl/
+2025-03-09 17:08:28,970 - C:\Users\kalya\OneDrive\Desktop\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-09 17:09:24,301 - \U0001f4e5 Received request: {"keyword":"Cybersecurity "}
+2025-03-09 17:09:25,134 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:09:26,363 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:09:27,693 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:09:29,026 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:09:30,254 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:09:49,670 - \U0001f4e5 Received request: {"url":"https://www.ou.edu/ouit/cybersecurity"}
+2025-03-09 17:10:11,226 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 17:10:12,145 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:10:13,342 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:10:14,695 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:10:16,028 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:10:17,262 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:12:48,800 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 17:12:49,834 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:12:51,081 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:12:52,300 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:12:53,636 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:12:55,187 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:13:11,474 - \U0001f4e5 Received request: {"url":"https://www.bain.com/insights/asia-pacific-private-equity-report-2024/"}
+2025-03-09 17:14:30,414 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 17:14:31,416 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:14:32,747 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:14:34,082 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:14:35,275 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:14:36,454 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:15:00,031 - \U0001f4e5 Received request: {"url":"https://www.bain.com/insights/asia-pacific-private-equity-report-2024/"}
+2025-03-09 17:15:12,645 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 17:15:13,714 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:15:14,937 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:15:16,169 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:15:17,621 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:15:18,931 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:15:26,789 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors","url":"https://www.japan.go.jp/kizuna/2023/02/decisions_in_foreign_and_security_policy.html"}
+2025-03-09 17:15:27,837 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:15:29,069 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:15:30,303 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:15:31,563 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:15:32,858 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-09 17:15:35,113 - \U0001f4e5 Received request: {"url":"https://www.japan.go.jp/kizuna/2023/02/decisions_in_foreign_and_security_policy.html"}
+2025-03-09 17:15:51,096 - \U0001f4e5 Received request: {"keyword":"Japan Geopolitical Investors"}
+2025-03-09 17:15:52,105 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:15:53,341 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:15:54,566 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:15:55,739 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:15:57,023 - response: https://html.duckduckgo.com/html 200
+2025-03-09 17:16:09,828 - \U0001f4e5 Received request: {"url":"https://thediplomat.com/2024/03/amid-geopolitical-concerns-us-capital-flows-from-china-to-japan/"}
+2025-03-21 21:15:23,016 - Not Found: /api/crawl/
+2025-03-21 21:17:03,698 - Not Found: /api/crawl/
+2025-03-21 21:17:08,905 - Not Found: /api/crawl/
+2025-03-21 21:28:13,581 - Not Found: /
+2025-03-21 21:28:13,707 - Not Found: /favicon.ico
+2025-03-21 21:29:03,419 - Not Found: /api/crawl/
+2025-03-21 21:29:29,520 - Not Found: /api/crawl/
+2025-03-21 21:32:10,339 - Not Found: /
+2025-03-22 17:58:50,386 - \U0001f4e5 Received request: {"keyword":"defence"}
+2025-03-22 17:58:51,544 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-22 17:58:52,953 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-22 17:58:54,400 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-22 17:58:55,838 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-22 17:58:57,272 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-22 17:59:07,960 - \U0001f4e5 Received request: {"keyword":"defence","url":"https://www.merriam-webster.com/dictionary/defence"}
+2025-03-22 17:59:09,039 - response: https://html.duckduckgo.com/html 200
+2025-03-22 17:59:10,462 - response: https://html.duckduckgo.com/html 200
+2025-03-22 17:59:12,013 - response: https://html.duckduckgo.com/html 200
+2025-03-22 17:59:13,445 - response: https://html.duckduckgo.com/html 200
+2025-03-22 17:59:14,933 - response: https://html.duckduckgo.com/html 200
+2025-03-22 18:10:09,560 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\odin_backend\settings.py changed, reloading.
+2025-03-22 18:16:44,158 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\odin_backend\settings.py changed, reloading.
+2025-03-22 21:43:38,656 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-03-22 21:44:16,931 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-03-22 21:46:49,688 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-22 21:46:58,495 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-03-22 21:48:50,874 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-22 21:48:56,511 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-03-22 21:55:18,408 - Not Found: /process-subscription/
+2025-03-22 21:59:25,972 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\odin_backend\settings.py changed, reloading.
+2025-03-22 22:00:33,834 - Not Found: /process-subscription/
+2025-03-22 22:06:27,496 - Not Found: /process-subscription/
+2025-03-22 22:11:26,010 - Error verifying PayPal subscription: module 'paypalrestsdk' has no attribute 'Subscription'
+2025-03-22 22:11:26,011 - Bad Request: /api/crawl/process-subscription/
+2025-03-22 22:18:54,987 - Error verifying PayPal subscription: module 'paypalrestsdk' has no attribute 'Subscription'
+2025-03-22 22:18:54,988 - Bad Request: /api/crawl/process-subscription/
+2025-03-22 22:21:40,009 - Error verifying PayPal subscription: module 'paypalrestsdk' has no attribute 'Subscription'
+2025-03-22 22:21:40,010 - Bad Request: /api/crawl/process-subscription/
+2025-03-22 22:30:00,858 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\odin_backend\settings.py changed, reloading.
+2025-03-22 22:30:48,224 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\odin_backend\settings.py changed, reloading.
+2025-03-22 22:31:16,840 - Error verifying PayPal subscription: module 'paypalrestsdk' has no attribute 'Subscription'
+2025-03-22 22:31:16,845 - Bad Request: /api/crawl/process-subscription/
+2025-03-22 22:35:58,304 - Error verifying PayPal subscription: module 'paypalrestsdk' has no attribute 'Subscription'
+2025-03-22 22:35:58,304 - Bad Request: /api/crawl/process-subscription/
+2025-03-22 22:38:58,542 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\odin_backend\settings.py changed, reloading.
+2025-03-22 22:39:09,660 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\odin_backend\settings.py changed, reloading.
+2025-03-22 22:40:21,959 - Error verifying PayPal subscription: module 'paypalrestsdk' has no attribute 'Subscription'
+2025-03-22 22:40:21,961 - Bad Request: /api/crawl/process-subscription/
+2025-03-22 22:56:18,247 - Error verifying PayPal subscription: module 'paypalrestsdk' has no attribute 'Subscription'
+2025-03-22 22:56:18,248 - Bad Request: /api/crawl/process-subscription/
+2025-03-22 23:00:29,930 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-22 23:01:23,353 - Error verifying PayPal subscription: module 'paypalrestsdk' has no attribute 'Subscription'
+2025-03-22 23:01:23,355 - Bad Request: /api/crawl/process-subscription/
+2025-03-23 12:02:12,851 - \U0001f4e5 Received request: {"keyword":"defence"}
+2025-03-23 12:02:13,779 - response: https://html.duckduckgo.com/html 200
+2025-03-23 12:02:15,150 - response: https://html.duckduckgo.com/html 200
+2025-03-23 12:02:16,377 - response: https://html.duckduckgo.com/html 200
+2025-03-23 12:02:17,599 - response: https://html.duckduckgo.com/html 200
+2025-03-23 12:02:18,858 - response: https://html.duckduckgo.com/html 200
+2025-03-23 12:02:22,192 - \U0001f4e5 Received request: {"keyword":"defence"}
+2025-03-23 12:02:23,034 - response: https://html.duckduckgo.com/html 200
+2025-03-23 12:02:24,341 - response: https://html.duckduckgo.com/html 200
+2025-03-23 12:02:25,508 - response: https://html.duckduckgo.com/html 200
+2025-03-23 12:02:26,919 - response: https://html.duckduckgo.com/html 200
+2025-03-23 12:02:28,118 - response: https://html.duckduckgo.com/html 200
+2025-03-23 12:02:49,916 - \U0001f4e5 Received request: {"keyword":"defence"}
+2025-03-23 12:02:50,698 - response: https://html.duckduckgo.com/html 200
+2025-03-23 12:02:51,940 - response: https://html.duckduckgo.com/html 200
+2025-03-23 12:02:53,222 - response: https://html.duckduckgo.com/html 200
+2025-03-23 12:02:54,470 - response: https://html.duckduckgo.com/html 200
+2025-03-23 12:02:55,670 - response: https://html.duckduckgo.com/html 200
+2025-03-23 12:03:49,176 - Error verifying PayPal subscription: module 'paypalrestsdk' has no attribute 'Subscription'
+2025-03-23 12:03:49,177 - Bad Request: /api/crawl/process-subscription/
+2025-03-23 12:06:32,847 - \U0001f4e5 Received request: {"keyword":"defence"}
+2025-03-23 12:06:33,698 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-23 12:06:34,881 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-23 12:06:36,082 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-23 12:06:37,345 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-23 12:06:38,767 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-23 12:06:55,609 - \U0001f4e5 Received request: {"keyword":"defence"}
+2025-03-23 12:06:56,631 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-23 12:06:57,831 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-23 12:06:59,051 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-23 12:07:00,239 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-23 12:07:01,495 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-23 12:15:09,086 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-23 12:16:54,769 - Error verifying PayPal subscription: module 'paypalrestsdk' has no attribute 'Subscription'
+2025-03-23 12:16:54,773 - Bad Request: /api/crawl/process-subscription/
+2025-03-23 12:27:47,666 - Error verifying PayPal subscription: module 'paypalrestsdk' has no attribute 'Subscription'
+2025-03-23 12:27:47,669 - Bad Request: /api/crawl/process-subscription/
+2025-03-23 12:29:42,850 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\odin_backend\settings.py changed, reloading.
+2025-03-23 12:35:07,220 - JSON Decode Error: Expecting value: line 1 column 1 (char 0)
+2025-03-23 12:35:07,222 - Bad Request: /api/crawl/process-subscription/
+2025-03-23 12:35:30,990 - Error verifying PayPal subscription: module 'paypalrestsdk' has no attribute 'Subscription'
+2025-03-23 12:35:30,990 - Bad Request: /api/crawl/process-subscription/
+2025-03-23 12:51:48,762 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-23 12:52:52,621 - Raw request body: {"subscription_id":"I-N5J8TRH41185"}
+2025-03-23 12:52:52,622 - Parsed JSON data: {'subscription_id': 'I-N5J8TRH41185'}
+2025-03-23 12:52:53,066 - Failed to get PayPal token: 401, {"error":"invalid_client","error_description":"Client Authentication failed"}
+2025-03-23 12:52:53,076 - Bad Request: /api/crawl/process-subscription/
+2025-03-23 13:02:33,163 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-03-23 13:07:18,045 - Not Found: /api/crawl/process-subscription/
+2025-03-23 13:08:54,294 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-03-23 13:09:33,447 - Not Found: /api/crawl/process-subscription/
+2025-03-23 13:14:45,476 - Not Found: /api/crawl/process-subscription/
+2025-03-23 13:15:56,160 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-03-23 13:19:27,852 - Raw request body: {
+  "subscription_id": "I-3MSS2WEK9HA8"
+}
+2025-03-23 13:19:27,853 - Parsed JSON data: {'subscription_id': 'I-3MSS2WEK9HA8'}
+2025-03-23 13:19:28,268 - Failed to get PayPal token: 401, {"error":"invalid_client","error_description":"Client Authentication failed"}
+2025-03-23 13:19:28,270 - Bad Request: /api/crawl/process-subscription/
+2025-03-23 13:25:31,470 - Raw request body: {"subscription_id":"I-W0X29CBXXK0D"}
+2025-03-23 13:25:31,471 - Parsed JSON data: {'subscription_id': 'I-W0X29CBXXK0D'}
+2025-03-23 13:25:31,860 - Failed to get PayPal token: 401, {"error":"invalid_client","error_description":"Client Authentication failed"}
+2025-03-23 13:25:31,863 - Bad Request: /api/crawl/process-subscription/
+2025-03-23 13:33:52,770 - Raw request body: {
+  "subscription_id": "I-3MSS2WEK9HA8"
+}
+2025-03-23 13:33:52,773 - Parsed JSON data: {'subscription_id': 'I-3MSS2WEK9HA8'}
+2025-03-23 13:33:53,184 - Failed to get PayPal token: 401, {"error":"invalid_client","error_description":"Client Authentication failed"}
+2025-03-23 13:33:53,187 - Bad Request: /api/crawl/process-subscription/
+2025-03-23 13:35:37,228 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-23 13:36:16,592 - Bad Request: /api/crawl/process-subscription/
+2025-03-23 13:37:57,077 - Bad Request: /api/crawl/process-subscription/
+2025-03-23 13:38:47,122 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-23 13:39:04,833 - Bad Request: /api/crawl/process-subscription/
+2025-03-23 13:46:22,532 - Bad Request: /api/crawl/process-subscription/
+2025-03-23 13:47:28,946 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-23 13:47:33,458 - Bad Request: /api/crawl/process-subscription/
+2025-03-23 13:58:29,750 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-23 14:00:31,335 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-23 14:00:45,694 - \U0001f4e5 Raw request body: {
+  "subscription_id": "I-3MSS2WEK9HA8"
+}
+2025-03-23 14:00:45,695 - \u2705 Parsed JSON data: {'subscription_id': 'I-3MSS2WEK9HA8'}
+2025-03-23 14:00:46,796 - \U0001f4c4 PayPal Subscription Details: {'status': 'ACTIVE', 'status_update_time': '2025-03-23T06:51:14Z', 'id': 'I-3MSS2WEK9HA8', 'plan_id': 'P-6JK011098D510354RM7PN27Y', 'start_time': '2025-03-23T06:45:32Z', 'quantity': '1', 'shipping_amount': {'currency_code': 'USD', 'value': '0.0'}, 'subscriber': {'email_address': 'yelido6783@bankrau.com', 'payer_id': '5QJYYPXTH2266', 'name': {'given_name': 'yelido', 'surname': 'yea'}, 'shipping_address': {'address': {'address_line_1': '1 Main St', 'admin_area_2': 'San Jose', 'admin_area_1': 'CA', 'postal_code': '95131', 'country_code': 'US'}}}, 'billing_info': {'outstanding_balance': {'currency_code': 'USD', 'value': '0.0'}, 'cycle_executions': [{'tenure_type': 'TRIAL', 'sequence': 1, 'cycles_completed': 1, 'cycles_remaining': 1, 'current_pricing_scheme_version': 1, 'total_cycles': 2}, {'tenure_type': 'TRIAL', 'sequence': 2, 'cycles_completed': 0, 'cycles_remaining': 3, 'current_pricing_scheme_version': 1, 'total_cycles': 3}, {'tenure_type': 'REGULAR', 'sequence': 3, 'cycles_completed': 0, 'cycles_remaining': 12, 'current_pricing_scheme_version': 1, 'total_cycles': 12}], 'last_payment': {'amount': {'currency_code': 'USD', 'value': '11.0'}, 'time': '2025-03-23T06:46:53Z'}, 'next_billing_time': '2025-04-22T10:00:00Z', 'final_payment_time': '2026-07-22T10:00:00Z', 'failed_payments_count': 0}, 'create_time': '2025-03-23T06:46:52Z', 'update_time': '2025-03-23T06:51:14Z', 'plan_overridden': False, 'links': [{'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-3MSS2WEK9HA8/cancel', 'rel': 'cancel', 'method': 'POST'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-3MSS2WEK9HA8', 'rel': 'edit', 'method': 'PATCH'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-3MSS2WEK9HA8', 'rel': 'self', 'method': 'GET'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-3MSS2WEK9HA8/suspend', 'rel': 'suspend', 'method': 'POST'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-3MSS2WEK9HA8/capture', 'rel': 'capture', 'method': 'POST'}]}
+2025-03-23 14:02:26,374 - \U0001f4e5 Received request: {"keyword":"defence"}
+2025-03-23 14:02:27,447 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-23 14:02:28,704 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-23 14:02:29,908 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-23 14:02:31,126 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-23 14:02:32,359 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-23 14:03:12,753 - \U0001f4e5 Raw request body: {"subscription_id":"I-6YY0HAFNSXXF"}
+2025-03-23 14:03:12,753 - \u2705 Parsed JSON data: {'subscription_id': 'I-6YY0HAFNSXXF'}
+2025-03-23 14:03:13,667 - \U0001f4c4 PayPal Subscription Details: {'status': 'ACTIVE', 'status_update_time': '2025-03-23T08:33:11Z', 'id': 'I-6YY0HAFNSXXF', 'plan_id': 'P-0FY65880DS460613GM7P3BBQ', 'start_time': '2025-03-23T08:32:35Z', 'quantity': '1', 'shipping_amount': {'currency_code': 'USD', 'value': '0.0'}, 'subscriber': {'email_address': 'yelido6783@bankrau.com', 'payer_id': '5QJYYPXTH2266', 'name': {'given_name': 'yelido', 'surname': 'yea'}, 'shipping_address': {'address': {'address_line_1': '1 Main St', 'admin_area_2': 'San Jose', 'admin_area_1': 'CA', 'postal_code': '95131', 'country_code': 'US'}}}, 'billing_info': {'outstanding_balance': {'currency_code': 'USD', 'value': '0.0'}, 'cycle_executions': [{'tenure_type': 'TRIAL', 'sequence': 1, 'cycles_completed': 0, 'cycles_remaining': 2, 'current_pricing_scheme_version': 1, 'total_cycles': 2}, {'tenure_type': 'TRIAL', 'sequence': 2, 'cycles_completed': 0, 'cycles_remaining': 3, 'current_pricing_scheme_version': 1, 'total_cycles': 3}, {'tenure_type': 'REGULAR', 'sequence': 3, 'cycles_completed': 0, 'cycles_remaining': 12, 'current_pricing_scheme_version': 1, 'total_cycles': 12}], 'last_payment': {'amount': {'currency_code': 'USD', 'value': '11.0'}, 'time': '2025-03-23T08:33:11Z'}, 'next_billing_time': '2025-03-23T08:33:10Z', 'final_payment_time': '2026-07-23T10:00:00Z', 'failed_payments_count': 0}, 'create_time': '2025-03-23T08:33:10Z', 'update_time': '2025-03-23T08:33:11Z', 'plan_overridden': False, 'links': [{'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-6YY0HAFNSXXF/cancel', 'rel': 'cancel', 'method': 'POST'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-6YY0HAFNSXXF', 'rel': 'edit', 'method': 'PATCH'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-6YY0HAFNSXXF', 'rel': 'self', 'method': 'GET'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-6YY0HAFNSXXF/suspend', 'rel': 'suspend', 'method': 'POST'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-6YY0HAFNSXXF/capture', 'rel': 'capture', 'method': 'POST'}]}
+2025-03-23 14:09:33,433 - \U0001f4e5 Raw request body: {"subscription_id":"I-242M3GT594BB"}
+2025-03-23 14:09:33,434 - \u2705 Parsed JSON data: {'subscription_id': 'I-242M3GT594BB'}
+2025-03-23 14:09:34,938 - \U0001f4c4 PayPal Subscription Details: {'status': 'ACTIVE', 'status_update_time': '2025-03-23T08:39:32Z', 'id': 'I-242M3GT594BB', 'plan_id': 'P-0FY65880DS460613GM7P3BBQ', 'start_time': '2025-03-23T08:39:00Z', 'quantity': '1', 'shipping_amount': {'currency_code': 'USD', 'value': '0.0'}, 'subscriber': {'email_address': 'yelido6783@bankrau.com', 'payer_id': '5QJYYPXTH2266', 'name': {'given_name': 'yelido', 'surname': 'yea'}, 'shipping_address': {'address': {'address_line_1': '1 Main St', 'admin_area_2': 'San Jose', 'admin_area_1': 'CA', 'postal_code': '95131', 'country_code': 'US'}}}, 'billing_info': {'outstanding_balance': {'currency_code': 'USD', 'value': '0.0'}, 'cycle_executions': [{'tenure_type': 'TRIAL', 'sequence': 1, 'cycles_completed': 0, 'cycles_remaining': 2, 'current_pricing_scheme_version': 1, 'total_cycles': 2}, {'tenure_type': 'TRIAL', 'sequence': 2, 'cycles_completed': 0, 'cycles_remaining': 3, 'current_pricing_scheme_version': 1, 'total_cycles': 3}, {'tenure_type': 'REGULAR', 'sequence': 3, 'cycles_completed': 0, 'cycles_remaining': 12, 'current_pricing_scheme_version': 1, 'total_cycles': 12}], 'last_payment': {'amount': {'currency_code': 'USD', 'value': '11.0'}, 'time': '2025-03-23T08:39:31Z'}, 'next_billing_time': '2025-03-23T08:39:31Z', 'final_payment_time': '2026-07-23T10:00:00Z', 'failed_payments_count': 0}, 'create_time': '2025-03-23T08:39:31Z', 'update_time': '2025-03-23T08:39:32Z', 'plan_overridden': False, 'links': [{'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-242M3GT594BB/cancel', 'rel': 'cancel', 'method': 'POST'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-242M3GT594BB', 'rel': 'edit', 'method': 'PATCH'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-242M3GT594BB', 'rel': 'self', 'method': 'GET'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-242M3GT594BB/suspend', 'rel': 'suspend', 'method': 'POST'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-242M3GT594BB/capture', 'rel': 'capture', 'method': 'POST'}]}
+2025-03-23 14:13:17,021 - \U0001f4e5 Raw request body: {"subscription_id":"I-HW5U9B3TR341"}
+2025-03-23 14:13:17,021 - \u2705 Parsed JSON data: {'subscription_id': 'I-HW5U9B3TR341'}
+2025-03-23 14:13:18,579 - \U0001f4c4 PayPal Subscription Details: {'status': 'ACTIVE', 'status_update_time': '2025-03-23T08:43:16Z', 'id': 'I-HW5U9B3TR341', 'plan_id': 'P-0FY65880DS460613GM7P3BBQ', 'start_time': '2025-03-23T08:42:53Z', 'quantity': '1', 'shipping_amount': {'currency_code': 'USD', 'value': '0.0'}, 'subscriber': {'email_address': 'yelido6783@bankrau.com', 'payer_id': '5QJYYPXTH2266', 'name': {'given_name': 'yelido', 'surname': 'yea'}, 'shipping_address': {'address': {'address_line_1': '1 Main St', 'admin_area_2': 'San Jose', 'admin_area_1': 'CA', 'postal_code': '95131', 'country_code': 'US'}}}, 'billing_info': {'outstanding_balance': {'currency_code': 'USD', 'value': '0.0'}, 'cycle_executions': [{'tenure_type': 'TRIAL', 'sequence': 1, 'cycles_completed': 0, 'cycles_remaining': 2, 'current_pricing_scheme_version': 1, 'total_cycles': 2}, {'tenure_type': 'TRIAL', 'sequence': 2, 'cycles_completed': 0, 'cycles_remaining': 3, 'current_pricing_scheme_version': 1, 'total_cycles': 3}, {'tenure_type': 'REGULAR', 'sequence': 3, 'cycles_completed': 0, 'cycles_remaining': 12, 'current_pricing_scheme_version': 1, 'total_cycles': 12}], 'last_payment': {'amount': {'currency_code': 'USD', 'value': '11.0'}, 'time': '2025-03-23T08:43:15Z'}, 'next_billing_time': '2025-03-23T08:43:14Z', 'final_payment_time': '2026-07-23T10:00:00Z', 'failed_payments_count': 0}, 'create_time': '2025-03-23T08:43:14Z', 'update_time': '2025-03-23T08:43:16Z', 'plan_overridden': False, 'links': [{'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-HW5U9B3TR341/cancel', 'rel': 'cancel', 'method': 'POST'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-HW5U9B3TR341', 'rel': 'edit', 'method': 'PATCH'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-HW5U9B3TR341', 'rel': 'self', 'method': 'GET'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-HW5U9B3TR341/suspend', 'rel': 'suspend', 'method': 'POST'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-HW5U9B3TR341/capture', 'rel': 'capture', 'method': 'POST'}]}
+2025-03-23 14:15:19,869 - \U0001f4e5 Raw request body: {"subscription_id":"I-SNU32RVTYJDA"}
+2025-03-23 14:15:19,869 - \u2705 Parsed JSON data: {'subscription_id': 'I-SNU32RVTYJDA'}
+2025-03-23 14:15:20,935 - \U0001f4c4 PayPal Subscription Details: {'status': 'ACTIVE', 'status_update_time': '2025-03-23T08:45:18Z', 'id': 'I-SNU32RVTYJDA', 'plan_id': 'P-0FY65880DS460613GM7P3BBQ', 'start_time': '2025-03-23T08:44:32Z', 'quantity': '1', 'shipping_amount': {'currency_code': 'USD', 'value': '0.0'}, 'subscriber': {'email_address': 'yelido6783@bankrau.com', 'payer_id': '5QJYYPXTH2266', 'name': {'given_name': 'yelido', 'surname': 'yea'}, 'shipping_address': {'address': {'address_line_1': '1 Main St', 'admin_area_2': 'San Jose', 'admin_area_1': 'CA', 'postal_code': '95131', 'country_code': 'US'}}}, 'billing_info': {'outstanding_balance': {'currency_code': 'USD', 'value': '0.0'}, 'cycle_executions': [{'tenure_type': 'TRIAL', 'sequence': 1, 'cycles_completed': 0, 'cycles_remaining': 2, 'current_pricing_scheme_version': 1, 'total_cycles': 2}, {'tenure_type': 'TRIAL', 'sequence': 2, 'cycles_completed': 0, 'cycles_remaining': 3, 'current_pricing_scheme_version': 1, 'total_cycles': 3}, {'tenure_type': 'REGULAR', 'sequence': 3, 'cycles_completed': 0, 'cycles_remaining': 12, 'current_pricing_scheme_version': 1, 'total_cycles': 12}], 'last_payment': {'amount': {'currency_code': 'USD', 'value': '11.0'}, 'time': '2025-03-23T08:45:18Z'}, 'next_billing_time': '2025-03-23T08:45:17Z', 'final_payment_time': '2026-07-23T10:00:00Z', 'failed_payments_count': 0}, 'create_time': '2025-03-23T08:45:17Z', 'update_time': '2025-03-23T08:45:18Z', 'plan_overridden': False, 'links': [{'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-SNU32RVTYJDA/cancel', 'rel': 'cancel', 'method': 'POST'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-SNU32RVTYJDA', 'rel': 'edit', 'method': 'PATCH'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-SNU32RVTYJDA', 'rel': 'self', 'method': 'GET'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-SNU32RVTYJDA/suspend', 'rel': 'suspend', 'method': 'POST'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-SNU32RVTYJDA/capture', 'rel': 'capture', 'method': 'POST'}]}
+2025-03-23 15:25:14,661 - \U0001f4e5 Received request: {"keyword":"defence"}
+2025-03-23 15:25:22,691 - response: https://html.duckduckgo.com/html 200
+2025-03-23 15:25:23,974 - response: https://html.duckduckgo.com/html 200
+2025-03-23 15:25:25,210 - response: https://html.duckduckgo.com/html 200
+2025-03-23 15:25:26,468 - response: https://html.duckduckgo.com/html 200
+2025-03-23 15:25:27,720 - response: https://html.duckduckgo.com/html 200
+2025-03-23 15:26:05,746 - \U0001f4e5 Received request: {"keyword":"defence"}
+2025-03-23 15:26:13,685 - response: https://html.duckduckgo.com/html 200
+2025-03-23 15:26:15,233 - response: https://html.duckduckgo.com/html 200
+2025-03-23 15:26:16,433 - response: https://html.duckduckgo.com/html 200
+2025-03-23 15:26:17,641 - response: https://html.duckduckgo.com/html 200
+2025-03-23 15:26:18,836 - response: https://html.duckduckgo.com/html 200
+2025-03-23 15:27:49,983 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-23 15:29:15,278 - Method Not Allowed (GET): /api/crawl/check-subscription-status/
+2025-03-23 15:29:15,280 - Method Not Allowed: /api/crawl/check-subscription-status/
+2025-03-23 15:29:15,287 - Method Not Allowed (GET): /api/crawl/check-subscription-status/
+2025-03-23 15:29:15,288 - Method Not Allowed: /api/crawl/check-subscription-status/
+2025-03-23 15:29:37,033 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-23 15:29:41,831 - \U0001f4e5 Raw request body: {
+  "subscription_id": "I-3MSS2WEK9HA8"
+}
+2025-03-23 15:29:41,832 - \u2705 Parsed JSON data: {'subscription_id': 'I-3MSS2WEK9HA8'}
+2025-03-23 15:29:41,853 - \u274c Unexpected Error: NOT NULL constraint failed: crawler_usersubscription.user_id
+2025-03-23 15:29:41,854 - Internal Server Error: /api/crawl/process-subscription/
+2025-03-23 15:30:07,042 - \U0001f4e5 Raw request body: {
+  "subscription_id": "I-3MSS2WEK9HA8"
+}
+2025-03-23 15:30:07,042 - \u2705 Parsed JSON data: {'subscription_id': 'I-3MSS2WEK9HA8'}
+2025-03-23 15:30:07,051 - \u274c Unexpected Error: NOT NULL constraint failed: crawler_usersubscription.user_id
+2025-03-23 15:30:07,052 - Internal Server Error: /api/crawl/process-subscription/
+2025-03-23 15:30:12,184 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-23 15:30:16,223 - \U0001f4e5 Raw request body: {
+  "subscription_id": "I-3MSS2WEK9HA8"
+}
+2025-03-23 15:30:16,225 - \u2705 Parsed JSON data: {'subscription_id': 'I-3MSS2WEK9HA8'}
+2025-03-23 15:30:16,234 - \u274c Unexpected Error: NOT NULL constraint failed: crawler_usersubscription.user_id
+2025-03-23 15:30:16,235 - Internal Server Error: /api/crawl/process-subscription/
+2025-03-23 15:30:21,203 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-23 15:30:24,938 - \U0001f4e5 Raw request body: {
+  "subscription_id": "I-3MSS2WEK9HA8"
+}
+2025-03-23 15:30:24,939 - \u2705 Parsed JSON data: {'subscription_id': 'I-3MSS2WEK9HA8'}
+2025-03-23 15:30:33,017 - \U0001f4c4 PayPal Subscription Details: {'status': 'ACTIVE', 'status_update_time': '2025-03-23T06:51:14Z', 'id': 'I-3MSS2WEK9HA8', 'plan_id': 'P-6JK011098D510354RM7PN27Y', 'start_time': '2025-03-23T06:45:32Z', 'quantity': '1', 'shipping_amount': {'currency_code': 'USD', 'value': '0.0'}, 'subscriber': {'email_address': 'yelido6783@bankrau.com', 'payer_id': '5QJYYPXTH2266', 'name': {'given_name': 'yelido', 'surname': 'yea'}, 'shipping_address': {'address': {'address_line_1': '1 Main St', 'admin_area_2': 'San Jose', 'admin_area_1': 'CA', 'postal_code': '95131', 'country_code': 'US'}}}, 'billing_info': {'outstanding_balance': {'currency_code': 'USD', 'value': '0.0'}, 'cycle_executions': [{'tenure_type': 'TRIAL', 'sequence': 1, 'cycles_completed': 1, 'cycles_remaining': 1, 'current_pricing_scheme_version': 1, 'total_cycles': 2}, {'tenure_type': 'TRIAL', 'sequence': 2, 'cycles_completed': 0, 'cycles_remaining': 3, 'current_pricing_scheme_version': 1, 'total_cycles': 3}, {'tenure_type': 'REGULAR', 'sequence': 3, 'cycles_completed': 0, 'cycles_remaining': 12, 'current_pricing_scheme_version': 1, 'total_cycles': 12}], 'last_payment': {'amount': {'currency_code': 'USD', 'value': '3.3'}, 'time': '2025-03-23T06:51:14Z'}, 'next_billing_time': '2025-04-22T10:00:00Z', 'final_payment_time': '2026-07-22T10:00:00Z', 'failed_payments_count': 0}, 'create_time': '2025-03-23T06:46:52Z', 'update_time': '2025-03-23T06:51:14Z', 'plan_overridden': False, 'links': [{'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-3MSS2WEK9HA8/cancel', 'rel': 'cancel', 'method': 'POST'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-3MSS2WEK9HA8', 'rel': 'edit', 'method': 'PATCH'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-3MSS2WEK9HA8', 'rel': 'self', 'method': 'GET'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-3MSS2WEK9HA8/suspend', 'rel': 'suspend', 'method': 'POST'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-3MSS2WEK9HA8/capture', 'rel': 'capture', 'method': 'POST'}]}
+2025-03-23 15:35:02,172 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-23 15:35:22,139 - Bad Request: /api/crawl/
+2025-03-23 15:35:23,455 - Bad Request: /api/crawl/
+2025-03-23 15:35:41,919 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-23 15:35:44,301 - \U0001f4e5 Received request: {"keyword":"defence"}
+2025-03-23 15:35:47,769 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-23 15:35:51,585 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-23 15:35:52,782 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-23 15:35:54,021 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-23 15:35:55,198 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-23 15:38:28,513 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-23 15:38:41,156 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-03-23 15:39:08,375 - \U0001f4e5 Raw request body: {
+  "subscription_id": "I-3MSS2WEK9HA8"
+}
+2025-03-23 15:39:08,377 - \u2705 Parsed JSON data: {'subscription_id': 'I-3MSS2WEK9HA8'}
+2025-03-23 15:39:09,354 - \U0001f4c4 PayPal Subscription Details: {'status': 'ACTIVE', 'status_update_time': '2025-03-23T06:51:14Z', 'id': 'I-3MSS2WEK9HA8', 'plan_id': 'P-6JK011098D510354RM7PN27Y', 'start_time': '2025-03-23T06:45:32Z', 'quantity': '1', 'shipping_amount': {'currency_code': 'USD', 'value': '0.0'}, 'subscriber': {'email_address': 'yelido6783@bankrau.com', 'payer_id': '5QJYYPXTH2266', 'name': {'given_name': 'yelido', 'surname': 'yea'}, 'shipping_address': {'address': {'address_line_1': '1 Main St', 'admin_area_2': 'San Jose', 'admin_area_1': 'CA', 'postal_code': '95131', 'country_code': 'US'}}}, 'billing_info': {'outstanding_balance': {'currency_code': 'USD', 'value': '0.0'}, 'cycle_executions': [{'tenure_type': 'TRIAL', 'sequence': 1, 'cycles_completed': 1, 'cycles_remaining': 1, 'current_pricing_scheme_version': 1, 'total_cycles': 2}, {'tenure_type': 'TRIAL', 'sequence': 2, 'cycles_completed': 0, 'cycles_remaining': 3, 'current_pricing_scheme_version': 1, 'total_cycles': 3}, {'tenure_type': 'REGULAR', 'sequence': 3, 'cycles_completed': 0, 'cycles_remaining': 12, 'current_pricing_scheme_version': 1, 'total_cycles': 12}], 'last_payment': {'amount': {'currency_code': 'USD', 'value': '3.3'}, 'time': '2025-03-23T06:51:14Z'}, 'next_billing_time': '2025-04-22T10:00:00Z', 'final_payment_time': '2026-07-22T10:00:00Z', 'failed_payments_count': 0}, 'create_time': '2025-03-23T06:46:52Z', 'update_time': '2025-03-23T06:51:14Z', 'plan_overridden': False, 'links': [{'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-3MSS2WEK9HA8/cancel', 'rel': 'cancel', 'method': 'POST'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-3MSS2WEK9HA8', 'rel': 'edit', 'method': 'PATCH'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-3MSS2WEK9HA8', 'rel': 'self', 'method': 'GET'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-3MSS2WEK9HA8/suspend', 'rel': 'suspend', 'method': 'POST'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-3MSS2WEK9HA8/capture', 'rel': 'capture', 'method': 'POST'}]}
+2025-03-23 15:43:40,694 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-23 15:44:01,257 - Bad Request: /api/crawl/check-subscription-status/
+2025-03-23 15:44:01,262 - Bad Request: /api/crawl/check-subscription-status/
+2025-03-23 15:44:23,954 - Bad Request: /api/crawl/process-subscription/
+2025-03-23 15:44:48,789 - Bad Request: /api/crawl/check-subscription-status/
+2025-03-23 15:44:48,792 - Bad Request: /api/crawl/check-subscription-status/
+2025-03-23 15:45:00,375 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-23 15:45:18,956 - \U0001f4e5 Received request: {"keyword":"defence"}
+2025-03-23 15:45:19,921 - response: https://html.duckduckgo.com/html 200
+2025-03-23 15:45:21,165 - response: https://html.duckduckgo.com/html 200
+2025-03-23 15:45:22,484 - response: https://html.duckduckgo.com/html 200
+2025-03-23 15:45:23,760 - response: https://html.duckduckgo.com/html 200
+2025-03-23 15:45:25,183 - response: https://html.duckduckgo.com/html 200
+2025-03-23 15:47:11,344 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-23 15:47:15,700 - \U0001f4e5 Raw request body: {
+  "subscription_id": "I-3MSS2WEK9HA8"
+}
+2025-03-23 15:47:15,702 - \u2705 Parsed JSON data: {'subscription_id': 'I-3MSS2WEK9HA8'}
+2025-03-23 15:47:17,321 - \U0001f4c4 PayPal Subscription Details: {'status': 'ACTIVE', 'status_update_time': '2025-03-23T06:51:14Z', 'id': 'I-3MSS2WEK9HA8', 'plan_id': 'P-6JK011098D510354RM7PN27Y', 'start_time': '2025-03-23T06:45:32Z', 'quantity': '1', 'shipping_amount': {'currency_code': 'USD', 'value': '0.0'}, 'subscriber': {'email_address': 'yelido6783@bankrau.com', 'payer_id': '5QJYYPXTH2266', 'name': {'given_name': 'yelido', 'surname': 'yea'}, 'shipping_address': {'address': {'address_line_1': '1 Main St', 'admin_area_2': 'San Jose', 'admin_area_1': 'CA', 'postal_code': '95131', 'country_code': 'US'}}}, 'billing_info': {'outstanding_balance': {'currency_code': 'USD', 'value': '0.0'}, 'cycle_executions': [{'tenure_type': 'TRIAL', 'sequence': 1, 'cycles_completed': 1, 'cycles_remaining': 1, 'current_pricing_scheme_version': 1, 'total_cycles': 2}, {'tenure_type': 'TRIAL', 'sequence': 2, 'cycles_completed': 0, 'cycles_remaining': 3, 'current_pricing_scheme_version': 1, 'total_cycles': 3}, {'tenure_type': 'REGULAR', 'sequence': 3, 'cycles_completed': 0, 'cycles_remaining': 12, 'current_pricing_scheme_version': 1, 'total_cycles': 12}], 'last_payment': {'amount': {'currency_code': 'USD', 'value': '3.3'}, 'time': '2025-03-23T06:51:14Z'}, 'next_billing_time': '2025-04-22T10:00:00Z', 'final_payment_time': '2026-07-22T10:00:00Z', 'failed_payments_count': 0}, 'create_time': '2025-03-23T06:46:52Z', 'update_time': '2025-03-23T06:51:14Z', 'plan_overridden': False, 'links': [{'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-3MSS2WEK9HA8/cancel', 'rel': 'cancel', 'method': 'POST'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-3MSS2WEK9HA8', 'rel': 'edit', 'method': 'PATCH'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-3MSS2WEK9HA8', 'rel': 'self', 'method': 'GET'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-3MSS2WEK9HA8/suspend', 'rel': 'suspend', 'method': 'POST'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-3MSS2WEK9HA8/capture', 'rel': 'capture', 'method': 'POST'}]}
+2025-03-23 18:30:31,168 - \U0001f4e5 Raw request body: {"subscription_id":"I-HU0STU672HFY"}
+2025-03-23 18:30:31,169 - \u2705 Parsed JSON data: {'subscription_id': 'I-HU0STU672HFY'}
+2025-03-23 18:30:32,183 - \U0001f4c4 PayPal Subscription Details: {'status': 'ACTIVE', 'status_update_time': '2025-03-23T13:00:30Z', 'id': 'I-HU0STU672HFY', 'plan_id': 'P-0FY65880DS460613GM7P3BBQ', 'start_time': '2025-03-23T13:00:04Z', 'quantity': '1', 'shipping_amount': {'currency_code': 'USD', 'value': '0.0'}, 'subscriber': {'email_address': 'yelido6783@bankrau.com', 'payer_id': '5QJYYPXTH2266', 'name': {'given_name': 'yelido', 'surname': 'yea'}, 'shipping_address': {'address': {'address_line_1': '1 Main St', 'admin_area_2': 'San Jose', 'admin_area_1': 'CA', 'postal_code': '95131', 'country_code': 'US'}}}, 'billing_info': {'outstanding_balance': {'currency_code': 'USD', 'value': '0.0'}, 'cycle_executions': [{'tenure_type': 'TRIAL', 'sequence': 1, 'cycles_completed': 0, 'cycles_remaining': 2, 'current_pricing_scheme_version': 1, 'total_cycles': 2}, {'tenure_type': 'TRIAL', 'sequence': 2, 'cycles_completed': 0, 'cycles_remaining': 3, 'current_pricing_scheme_version': 1, 'total_cycles': 3}, {'tenure_type': 'REGULAR', 'sequence': 3, 'cycles_completed': 0, 'cycles_remaining': 12, 'current_pricing_scheme_version': 1, 'total_cycles': 12}], 'last_payment': {'amount': {'currency_code': 'USD', 'value': '11.0'}, 'time': '2025-03-23T13:00:29Z'}, 'next_billing_time': '2025-03-23T13:00:29Z', 'final_payment_time': '2026-07-23T10:00:00Z', 'failed_payments_count': 0}, 'create_time': '2025-03-23T13:00:29Z', 'update_time': '2025-03-23T13:00:30Z', 'plan_overridden': False, 'links': [{'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-HU0STU672HFY/cancel', 'rel': 'cancel', 'method': 'POST'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-HU0STU672HFY', 'rel': 'edit', 'method': 'PATCH'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-HU0STU672HFY', 'rel': 'self', 'method': 'GET'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-HU0STU672HFY/suspend', 'rel': 'suspend', 'method': 'POST'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-HU0STU672HFY/capture', 'rel': 'capture', 'method': 'POST'}]}
+2025-03-25 13:39:56,928 - \U0001f4e5 Raw request body: {"subscription_id":"I-HDLMNV48SVL8"}
+2025-03-25 13:39:56,929 - \u2705 Parsed JSON data: {'subscription_id': 'I-HDLMNV48SVL8'}
+2025-03-25 13:39:58,526 - \U0001f4c4 PayPal Subscription Details: {'status': 'ACTIVE', 'status_update_time': '2025-03-25T08:09:59Z', 'id': 'I-HDLMNV48SVL8', 'plan_id': 'P-0FY65880DS460613GM7P3BBQ', 'start_time': '2025-03-25T08:09:11Z', 'quantity': '1', 'shipping_amount': {'currency_code': 'USD', 'value': '0.0'}, 'subscriber': {'email_address': 'yelido6783@bankrau.com', 'payer_id': '5QJYYPXTH2266', 'name': {'given_name': 'yelido', 'surname': 'yea'}, 'shipping_address': {'address': {'address_line_1': '1 Main St', 'admin_area_2': 'San Jose', 'admin_area_1': 'CA', 'postal_code': '95131', 'country_code': 'US'}}}, 'billing_info': {'outstanding_balance': {'currency_code': 'USD', 'value': '0.0'}, 'cycle_executions': [{'tenure_type': 'TRIAL', 'sequence': 1, 'cycles_completed': 0, 'cycles_remaining': 2, 'current_pricing_scheme_version': 1, 'total_cycles': 2}, {'tenure_type': 'TRIAL', 'sequence': 2, 'cycles_completed': 0, 'cycles_remaining': 3, 'current_pricing_scheme_version': 1, 'total_cycles': 3}, {'tenure_type': 'REGULAR', 'sequence': 3, 'cycles_completed': 0, 'cycles_remaining': 12, 'current_pricing_scheme_version': 1, 'total_cycles': 12}], 'last_payment': {'amount': {'currency_code': 'USD', 'value': '11.0'}, 'time': '2025-03-25T08:09:59Z'}, 'next_billing_time': '2025-03-25T08:09:58Z', 'final_payment_time': '2026-07-25T10:00:00Z', 'failed_payments_count': 0}, 'create_time': '2025-03-25T08:09:58Z', 'update_time': '2025-03-25T08:09:59Z', 'plan_overridden': False, 'links': [{'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-HDLMNV48SVL8/cancel', 'rel': 'cancel', 'method': 'POST'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-HDLMNV48SVL8', 'rel': 'edit', 'method': 'PATCH'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-HDLMNV48SVL8', 'rel': 'self', 'method': 'GET'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-HDLMNV48SVL8/suspend', 'rel': 'suspend', 'method': 'POST'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-HDLMNV48SVL8/capture', 'rel': 'capture', 'method': 'POST'}]}
+2025-03-25 20:10:23,431 - \U0001f4e5 Raw request body: {
+  "subscription_id": "I-3MSS2WEK9HA8"
+}
+2025-03-25 20:10:23,433 - \u2705 Parsed JSON data: {'subscription_id': 'I-3MSS2WEK9HA8'}
+2025-03-25 20:10:25,057 - \U0001f4c4 PayPal Subscription Details: {'status': 'ACTIVE', 'status_update_time': '2025-03-23T06:51:14Z', 'id': 'I-3MSS2WEK9HA8', 'plan_id': 'P-6JK011098D510354RM7PN27Y', 'start_time': '2025-03-23T06:45:32Z', 'quantity': '1', 'shipping_amount': {'currency_code': 'USD', 'value': '0.0'}, 'subscriber': {'email_address': 'yelido6783@bankrau.com', 'payer_id': '5QJYYPXTH2266', 'name': {'given_name': 'yelido', 'surname': 'yea'}, 'shipping_address': {'address': {'address_line_1': '1 Main St', 'admin_area_2': 'San Jose', 'admin_area_1': 'CA', 'postal_code': '95131', 'country_code': 'US'}}}, 'billing_info': {'outstanding_balance': {'currency_code': 'USD', 'value': '0.0'}, 'cycle_executions': [{'tenure_type': 'TRIAL', 'sequence': 1, 'cycles_completed': 1, 'cycles_remaining': 1, 'current_pricing_scheme_version': 1, 'total_cycles': 2}, {'tenure_type': 'TRIAL', 'sequence': 2, 'cycles_completed': 0, 'cycles_remaining': 3, 'current_pricing_scheme_version': 1, 'total_cycles': 3}, {'tenure_type': 'REGULAR', 'sequence': 3, 'cycles_completed': 0, 'cycles_remaining': 12, 'current_pricing_scheme_version': 1, 'total_cycles': 12}], 'last_payment': {'amount': {'currency_code': 'USD', 'value': '3.3'}, 'time': '2025-03-23T06:51:14Z'}, 'next_billing_time': '2025-04-22T10:00:00Z', 'final_payment_time': '2026-07-22T10:00:00Z', 'failed_payments_count': 0}, 'create_time': '2025-03-23T06:46:52Z', 'update_time': '2025-03-23T06:51:14Z', 'plan_overridden': False, 'links': [{'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-3MSS2WEK9HA8/cancel', 'rel': 'cancel', 'method': 'POST'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-3MSS2WEK9HA8', 'rel': 'edit', 'method': 'PATCH'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-3MSS2WEK9HA8', 'rel': 'self', 'method': 'GET'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-3MSS2WEK9HA8/suspend', 'rel': 'suspend', 'method': 'POST'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-3MSS2WEK9HA8/capture', 'rel': 'capture', 'method': 'POST'}]}
+2025-03-25 20:25:45,745 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\models.py changed, reloading.
+2025-03-25 20:26:57,228 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-03-25 20:27:06,655 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-03-25 20:27:24,414 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-26 16:57:23,513 - Received request: {"keyword":"defence"}
+2025-03-26 16:57:24,402 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-26 16:57:25,763 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-26 16:57:26,965 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-26 16:57:28,190 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-26 16:57:29,412 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-26 16:58:22,365 - Received request: {"keyword":"defence"}
+2025-03-26 16:58:23,235 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-26 16:58:24,517 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-26 16:58:25,963 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-26 16:58:27,445 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-26 16:58:28,852 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-26 16:59:13,257 - Subscription processing error: 'Settings' object has no attribute 'PAYPAL_SECRET'
+2025-03-26 16:59:13,258 - Internal Server Error: /api/crawl/process-subscription/
+2025-03-26 17:04:39,030 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-26 17:05:33,277 - Subscription processing error: Field 'user_id' expected a number but got 'current_user_id'.
+2025-03-26 17:05:33,279 - Internal Server Error: /api/crawl/process-subscription/
+2025-03-26 17:10:04,952 - Subscription processing error: Field 'user_id' expected a number but got 'current_user_id'.
+2025-03-26 17:10:04,954 - Internal Server Error: /api/crawl/process-subscription/
+2025-03-26 17:11:54,873 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-26 17:12:33,004 - \U0001f50d Received subscription request for user_id=current_user_id, subscription_id=I-AFP8YJ3R4BHL
+2025-03-26 17:12:33,955 - \u2705 PayPal verification result: True
+2025-03-26 17:12:33,958 - \u274c Subscription processing error: Field 'user_id' expected a number but got 'current_user_id'.
+2025-03-26 17:12:33,959 - Internal Server Error: /api/crawl/process-subscription/
+2025-03-26 17:35:40,092 - \U0001f50d Received subscription request for user_id=0, subscription_id=I-2P2K4MHP4BU8
+2025-03-26 17:35:40,094 - Bad Request: /api/crawl/process-subscription/
+2025-03-26 17:37:29,669 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-26 17:38:47,206 - \U0001f4e5 Raw request body: {"user_id":0,"subscription_id":"I-3BPRCR2GJSFT"}
+2025-03-26 17:38:47,206 - \u2705 Parsed JSON data: {'user_id': 0, 'subscription_id': 'I-3BPRCR2GJSFT'}
+2025-03-26 17:38:47,206 - Bad Request: /api/crawl/process-subscription/
+2025-03-26 17:59:15,157 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-26 18:00:20,171 - \U0001f4e5 Raw request body: {"user_id":0,"subscription_id":"I-JCSRDG8PFJBR"}
+2025-03-26 18:00:20,173 - \u2705 Parsed JSON data: {'user_id': 0, 'subscription_id': 'I-JCSRDG8PFJBR'}
+2025-03-26 18:00:20,173 - \u274c Missing parameters: user_id=0, subscription_id=I-JCSRDG8PFJBR
+2025-03-26 18:00:20,174 - Bad Request: /api/crawl/process-subscription/
+2025-03-26 18:02:26,254 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-26 18:03:11,091 - \U0001f4e5 Raw request body: {"user_id":0,"subscription_id":"I-242140T694BB"}
+2025-03-26 18:03:11,091 - \u2705 Parsed JSON data: {'user_id': 0, 'subscription_id': 'I-242140T694BB'}
+2025-03-26 18:03:11,092 - \u274c Missing parameters: user_id=0, subscription_id=I-242140T694BB
+2025-03-26 18:03:11,092 - Bad Request: /api/crawl/process-subscription/
+2025-03-26 18:11:43,456 - \U0001f4e5 Raw request body: {"user_id":0,"subscription_id":"I-W1UTHT0R4EMV"}
+2025-03-26 18:11:43,458 - \u2705 Parsed JSON data: {'user_id': 0, 'subscription_id': 'I-W1UTHT0R4EMV'}
+2025-03-26 18:11:43,458 - \u274c Missing parameters: user_id=0, subscription_id=I-W1UTHT0R4EMV
+2025-03-26 18:11:43,459 - Bad Request: /api/crawl/process-subscription/
+2025-03-26 18:59:17,176 - \U0001f4e5 Raw request body: {
+  "subscription_id": "I-3MSS2WEK9HA8"
+}
+2025-03-26 18:59:17,177 - \u2705 Parsed JSON data: {'subscription_id': 'I-3MSS2WEK9HA8'}
+2025-03-26 18:59:17,177 - \u274c Missing parameters: user_id=None, subscription_id=I-3MSS2WEK9HA8
+2025-03-26 18:59:17,179 - Bad Request: /api/crawl/process-subscription/
+2025-03-27 14:33:07,411 - \U0001f4e5 Raw request body: {"user_id":0,"subscription_id":"I-2JV1LAML98HB"}
+2025-03-27 14:33:07,422 - \u2705 Parsed JSON data: {'user_id': 0, 'subscription_id': 'I-2JV1LAML98HB'}
+2025-03-27 14:33:07,423 - \u274c Missing parameters: user_id=0, subscription_id=I-2JV1LAML98HB
+2025-03-27 14:33:07,423 - Bad Request: /api/crawl/process-subscription/
+2025-03-27 14:45:32,833 - Not Found: /process-subscription/
+2025-03-27 14:49:04,876 - Not Found: /process-subscription/
+2025-03-27 14:50:10,627 - Not Found: /process-subscription/
+2025-03-27 14:51:47,411 - \U0001f4e5 Raw request body: {"user_id":0,"subscription_id":"I-WGLTHLS4LKY7"}
+2025-03-27 14:51:47,413 - \u2705 Parsed JSON data: {'user_id': 0, 'subscription_id': 'I-WGLTHLS4LKY7'}
+2025-03-27 14:51:47,413 - \u274c Missing parameters: user_id=0, subscription_id=I-WGLTHLS4LKY7
+2025-03-27 14:51:47,414 - Bad Request: /api/crawl/process-subscription/
+2025-03-27 14:53:12,090 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-27 14:53:24,524 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-27 14:55:52,037 - \U0001f4e5 Raw request body: {
+    "user_id": 1,
+    "subscription_id": "SUB-TEST123"
+}
+2025-03-27 14:55:52,038 - \u2705 Parsed JSON data: {'user_id': 1, 'subscription_id': 'SUB-TEST123'}
+2025-03-27 14:56:32,224 - \U0001f4e5 Raw request body: {"user_id":0,"subscription_id":"I-BVUNKP0CDY5V"}
+2025-03-27 14:56:32,225 - \u2705 Parsed JSON data: {'user_id': 0, 'subscription_id': 'I-BVUNKP0CDY5V'}
+2025-03-27 14:56:32,226 - \u274c Missing parameters: user_id=0, subscription_id=I-BVUNKP0CDY5V
+2025-03-27 14:56:32,228 - Bad Request: /api/crawl/process-subscription/
+2025-03-27 15:01:32,203 - \U0001f4e5 Raw request body: {"user_id":0,"subscription_id":"I-KTA4FJTVE4H4"}
+2025-03-27 15:01:32,204 - \u2705 Parsed JSON data: {'user_id': 0, 'subscription_id': 'I-KTA4FJTVE4H4'}
+2025-03-27 15:01:32,205 - \u274c Missing parameters: user_id=0, subscription_id=I-KTA4FJTVE4H4
+2025-03-27 15:01:32,207 - Bad Request: /api/crawl/process-subscription/
+2025-03-27 15:09:24,880 - \U0001f4e5 Raw request body: {"user_id":0,"subscription_id":"I-MUUCC4JMKUNU"}
+2025-03-27 15:09:24,881 - \u2705 Parsed JSON data: {'user_id': 0, 'subscription_id': 'I-MUUCC4JMKUNU'}
+2025-03-27 15:09:24,881 - \u274c Missing parameters: user_id=0, subscription_id=I-MUUCC4JMKUNU
+2025-03-27 15:09:24,882 - Bad Request: /api/crawl/process-subscription/
+2025-03-27 15:13:43,998 - \U0001f4e5 Raw request body: {"user_id":0,"subscription_id":"I-NHGAJSBS547V"}
+2025-03-27 15:13:43,998 - \u2705 Parsed JSON data: {'user_id': 0, 'subscription_id': 'I-NHGAJSBS547V'}
+2025-03-27 15:13:43,998 - \u274c Missing parameters: user_id=0, subscription_id=I-NHGAJSBS547V
+2025-03-27 15:13:44,000 - Bad Request: /api/crawl/process-subscription/
+2025-03-27 15:18:22,877 - \U0001f4e5 Raw request body: {"user_id":0,"subscription_id":"I-4MTDJALJ8M14"}
+2025-03-27 15:18:22,878 - \u2705 Parsed JSON data: {'user_id': 0, 'subscription_id': 'I-4MTDJALJ8M14'}
+2025-03-27 15:18:22,878 - \u274c Missing parameters: user_id=0, subscription_id=I-4MTDJALJ8M14
+2025-03-27 15:18:22,879 - Bad Request: /api/crawl/process-subscription/
+2025-03-27 15:21:42,108 - \U0001f4e5 Raw request body: {"user_id":0,"subscription_id":"I-YT0KNFNB4LRN"}
+2025-03-27 15:21:42,108 - \u2705 Parsed JSON data: {'user_id': 0, 'subscription_id': 'I-YT0KNFNB4LRN'}
+2025-03-27 15:21:42,109 - \u274c Missing parameters: user_id=0, subscription_id=I-YT0KNFNB4LRN
+2025-03-27 15:21:42,109 - Bad Request: /api/crawl/process-subscription/
+2025-03-27 15:29:29,667 - \U0001f4e5 Raw request body: {"user_id":0,"subscription_id":"I-XSWLKT0NU9CF"}
+2025-03-27 15:29:29,667 - \u2705 Parsed JSON data: {'user_id': 0, 'subscription_id': 'I-XSWLKT0NU9CF'}
+2025-03-27 15:29:29,667 - \u274c Missing parameters: user_id=0, subscription_id=I-XSWLKT0NU9CF
+2025-03-27 15:29:29,668 - Bad Request: /api/crawl/process-subscription/
+2025-03-27 16:14:52,865 - \U0001f4e5 Raw request body: {"user_id":1743072084846,"subscription_id":"I-M9WUD47JP9PE"}
+2025-03-27 16:14:52,866 - \u2705 Parsed JSON data: {'user_id': 1743072084846, 'subscription_id': 'I-M9WUD47JP9PE'}
+2025-03-27 16:19:36,448 - Received request: {"keyword":"defence"}
+2025-03-27 16:19:38,808 - response: https://html.duckduckgo.com/html 200
+2025-03-27 16:19:40,125 - response: https://html.duckduckgo.com/html 200
+2025-03-27 16:19:41,558 - response: https://html.duckduckgo.com/html 200
+2025-03-27 16:19:43,198 - response: https://html.duckduckgo.com/html 200
+2025-03-27 16:19:44,734 - response: https://html.duckduckgo.com/html 200
+2025-03-27 16:20:26,431 - Received request: {"keyword":"defence"}
+2025-03-27 16:20:27,711 - response: https://html.duckduckgo.com/html 200
+2025-03-27 16:20:29,860 - response: https://html.duckduckgo.com/html 200
+2025-03-27 16:20:31,325 - response: https://html.duckduckgo.com/html 200
+2025-03-27 16:20:33,100 - response: https://html.duckduckgo.com/html 200
+2025-03-27 16:20:34,377 - response: https://html.duckduckgo.com/html 200
+2025-03-27 21:49:35,119 - Bad Request: /api/crawl/
+2025-03-27 21:51:03,394 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-27 21:51:09,614 - Bad Request: /api/crawl/
+2025-03-27 21:51:31,193 - Bad Request: /api/crawl/
+2025-03-27 22:00:29,880 - \U0001f4e5 Raw request body: {"user_id":1743072084846,"subscription_id":"I-XSEU1EPLXEGT"}
+2025-03-27 22:00:29,882 - \u2705 Parsed JSON data: {'user_id': 1743072084846, 'subscription_id': 'I-XSEU1EPLXEGT'}
+2025-03-27 22:00:52,787 - Bad Request: /api/crawl/
+2025-03-27 22:00:54,860 - Bad Request: /api/crawl/
+2025-03-27 22:02:24,786 - Bad Request: /api/crawl/
+2025-03-27 22:05:22,630 - Not Found: /api/access/
+2025-03-27 22:06:09,346 - Not Found: /api/access/
+2025-03-27 22:08:34,371 - Not Found: /api/check-access/
+2025-03-27 22:11:33,743 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\odin_backend\urls.py changed, reloading.
+2025-03-27 22:12:12,767 - Not Found: /api/crawl/check-access/
+2025-03-27 22:12:12,774 - Not Found: /api/crawl/check-access/
+2025-03-27 22:12:18,346 - Not Found: /api/access/
+2025-03-27 22:12:32,767 - Not Found: /api/crawl/check-access/
+2025-03-27 22:12:32,788 - Not Found: /api/crawl/check-access/
+2025-03-27 22:13:14,614 - Not Found: /api/crawl/process-subscription/
+2025-03-27 22:14:27,654 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\odin_backend\urls.py changed, reloading.
+2025-03-27 22:19:41,637 - Bad Request: /api/crawl/
+2025-03-27 22:22:24,444 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-27 22:22:25,738 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:22:27,175 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:22:28,451 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:22:29,712 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:22:31,160 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:23:08,717 - \U0001f4e5 Raw request body: {"user_id":1743072084846,"subscription_id":"I-9N45UA3BDN2G"}
+2025-03-27 22:23:08,718 - \u2705 Parsed JSON data: {'user_id': 1743072084846, 'subscription_id': 'I-9N45UA3BDN2G'}
+2025-03-27 22:23:14,009 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-27 22:23:15,455 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:23:16,956 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:23:18,187 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:23:19,460 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:23:20,763 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:31:10,119 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-27 22:31:11,842 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:31:13,148 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:31:14,407 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:31:15,689 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:31:16,951 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:33:31,237 - \U0001f4e5 Raw request body: {"user_id":1743072084846,"subscription_id":"I-UDUVUT0N6XNF"}
+2025-03-27 22:33:31,238 - \u2705 Parsed JSON data: {'user_id': 1743072084846, 'subscription_id': 'I-UDUVUT0N6XNF'}
+2025-03-27 22:33:34,614 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-27 22:33:35,652 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:33:37,063 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:33:38,340 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:33:39,552 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:33:40,785 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:38:47,840 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-27 22:38:48,852 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:38:50,086 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:38:51,345 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:38:52,590 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:38:53,827 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:39:36,055 - \U0001f4e5 Raw request body: {"user_id":1743072084846,"subscription_id":"I-YJKLJ3MF2EBH"}
+2025-03-27 22:39:36,055 - \u2705 Parsed JSON data: {'user_id': 1743072084846, 'subscription_id': 'I-YJKLJ3MF2EBH'}
+2025-03-27 22:41:40,792 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-27 22:41:41,853 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 22:41:43,141 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 22:41:44,425 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 22:41:45,859 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 22:41:47,851 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 22:42:30,321 - \U0001f4e5 Raw request body: {"user_id":1743072084846,"subscription_id":"I-THT9M1G0MC6T"}
+2025-03-27 22:42:30,321 - \u2705 Parsed JSON data: {'user_id': 1743072084846, 'subscription_id': 'I-THT9M1G0MC6T'}
+2025-03-27 22:42:35,996 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-27 22:42:37,005 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:42:38,243 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:42:39,435 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:42:41,095 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:42:42,346 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:50:47,806 - \U0001f4e5 Raw request body: {"user_id":1743072084846,"subscription_id":"I-XMTWWG5ACMDC"}
+2025-03-27 22:50:47,807 - \u2705 Parsed JSON data: {'user_id': 1743072084846, 'subscription_id': 'I-XMTWWG5ACMDC'}
+2025-03-27 22:50:55,256 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-27 22:50:56,385 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 22:50:57,647 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 22:50:58,882 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 22:51:00,105 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 22:51:01,352 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 22:54:22,838 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-27 22:55:05,373 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-27 22:55:06,582 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:55:07,877 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:55:09,305 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:55:10,517 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:55:11,738 - response: https://html.duckduckgo.com/html 200
+2025-03-27 22:55:43,478 - \U0001f4e5 Raw request body: {"user_id":1743072084846,"subscription_id":"I-04LKP6DUMBKM"}
+2025-03-27 22:55:43,478 - \u2705 Parsed JSON data: {'user_id': 1743072084846, 'subscription_id': 'I-04LKP6DUMBKM'}
+2025-03-27 22:55:43,507 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-27 22:55:44,537 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 22:55:45,746 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 22:55:46,992 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 22:55:48,170 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 22:55:49,397 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:07:21,040 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-27 23:07:30,432 - response: https://html.duckduckgo.com/html 200
+2025-03-27 23:07:31,606 - response: https://html.duckduckgo.com/html 200
+2025-03-27 23:07:32,837 - response: https://html.duckduckgo.com/html 200
+2025-03-27 23:07:34,040 - response: https://html.duckduckgo.com/html 200
+2025-03-27 23:07:35,235 - response: https://html.duckduckgo.com/html 200
+2025-03-27 23:09:14,606 - \U0001f4e5 Raw request body: {"user_id":1743072084846,"subscription_id":"I-NMVJ40L44SBT"}
+2025-03-27 23:09:14,606 - \u2705 Parsed JSON data: {'user_id': 1743072084846, 'subscription_id': 'I-NMVJ40L44SBT'}
+2025-03-27 23:09:14,643 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-27 23:09:22,546 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:09:23,819 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:09:25,047 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:09:26,361 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:09:27,600 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:10:57,815 - Received request: {"user_id":1743072084846,"keyword":"Defence"}
+2025-03-27 23:10:58,623 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:10:59,818 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:11:01,014 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:11:02,229 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:11:03,552 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:13:48,992 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-27 23:13:56,971 - response: https://html.duckduckgo.com/html 200
+2025-03-27 23:13:58,217 - response: https://html.duckduckgo.com/html 200
+2025-03-27 23:13:59,492 - response: https://html.duckduckgo.com/html 200
+2025-03-27 23:14:00,776 - response: https://html.duckduckgo.com/html 200
+2025-03-27 23:14:02,048 - response: https://html.duckduckgo.com/html 200
+2025-03-27 23:15:10,083 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-27 23:15:11,015 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:15:12,221 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:15:13,495 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:15:14,730 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:15:15,966 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:15:47,641 - \U0001f4e5 Raw request body: {"user_id":1743072084846,"subscription_id":"I-2KPEBBS2G9RC"}
+2025-03-27 23:15:47,641 - \u2705 Parsed JSON data: {'user_id': 1743072084846, 'subscription_id': 'I-2KPEBBS2G9RC'}
+2025-03-27 23:15:47,680 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-27 23:15:48,681 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:15:49,872 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:15:51,089 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:15:52,292 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:15:53,526 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:21:51,446 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-27 23:33:53,501 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-27 23:33:54,514 - response: https://html.duckduckgo.com/html 200
+2025-03-27 23:33:55,749 - response: https://html.duckduckgo.com/html 200
+2025-03-27 23:33:57,030 - response: https://html.duckduckgo.com/html 200
+2025-03-27 23:33:58,219 - response: https://html.duckduckgo.com/html 200
+2025-03-27 23:33:59,463 - response: https://html.duckduckgo.com/html 200
+2025-03-27 23:35:03,655 - \U0001f4c4 PayPal Subscription Response: {'status': 'ACTIVE', 'status_update_time': '2025-03-27T18:05:02Z', 'id': 'I-TTATH4TC6BHT', 'plan_id': 'P-5AJ27496K4205481RM7SRZII', 'start_time': '2025-03-27T18:04:06Z', 'quantity': '1', 'shipping_amount': {'currency_code': 'USD', 'value': '0.0'}, 'subscriber': {'email_address': 'yelido6783@bankrau.com', 'payer_id': '5QJYYPXTH2266', 'name': {'given_name': 'yelido', 'surname': 'yea'}, 'tenant': 'PAYPAL', 'shipping_address': {'address': {'address_line_1': '1 Main St', 'admin_area_2': 'San Jose', 'admin_area_1': 'CA', 'postal_code': '95131', 'country_code': 'US'}}}, 'billing_info': {'outstanding_balance': {'currency_code': 'USD', 'value': '0.0'}, 'cycle_executions': [{'tenure_type': 'TRIAL', 'sequence': 1, 'cycles_completed': 0, 'cycles_remaining': 2, 'current_pricing_scheme_version': 1, 'total_cycles': 2}, {'tenure_type': 'TRIAL', 'sequence': 2, 'cycles_completed': 0, 'cycles_remaining': 3, 'current_pricing_scheme_version': 1, 'total_cycles': 3}, {'tenure_type': 'REGULAR', 'sequence': 3, 'cycles_completed': 0, 'cycles_remaining': 12, 'current_pricing_scheme_version': 1, 'total_cycles': 12}], 'last_payment': {'amount': {'currency_code': 'USD', 'value': '11.0'}, 'time': '2025-03-27T18:05:02Z'}, 'next_billing_time': '2025-03-27T18:05:01Z', 'final_payment_time': '2026-07-27T10:00:00Z', 'failed_payments_count': 0}, 'create_time': '2025-03-27T18:05:01Z', 'update_time': '2025-03-27T18:05:02Z', 'plan_overridden': False, 'links': [{'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-TTATH4TC6BHT/cancel', 'rel': 'cancel', 'method': 'POST'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-TTATH4TC6BHT', 'rel': 'edit', 'method': 'PATCH'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-TTATH4TC6BHT', 'rel': 'self', 'method': 'GET'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-TTATH4TC6BHT/suspend', 'rel': 'suspend', 'method': 'POST'}, {'href': 'https://api.sandbox.paypal.com/v1/billing/subscriptions/I-TTATH4TC6BHT/capture', 'rel': 'capture', 'method': 'POST'}]}
+2025-03-27 23:35:03,671 - Subscription processing error: NOT NULL constraint failed: crawler_usersubscription.trial_end
+2025-03-27 23:35:03,672 - Internal Server Error: /api/crawl/process-subscription/
+2025-03-27 23:35:18,484 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-27 23:36:13,705 - \U0001f4e5 Raw request body: {"user_id":1743072084846,"subscription_id":"I-B90SWBPKYHYP"}
+2025-03-27 23:36:13,706 - \u2705 Parsed JSON data: {'user_id': 1743072084846, 'subscription_id': 'I-B90SWBPKYHYP'}
+2025-03-27 23:36:19,966 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-27 23:36:21,240 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:36:22,455 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:36:23,724 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:36:24,947 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:36:26,295 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:39:40,176 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-27 23:40:28,319 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-27 23:40:29,305 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:40:30,583 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:40:31,790 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:40:32,964 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:40:34,245 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:42:09,625 - \U0001f4e5 Raw request body: {"user_id":1743072084846,"subscription_id":"I-MKF7FTS2TXWN"}
+2025-03-27 23:42:09,625 - \u2705 Parsed JSON data: {'user_id': 1743072084846, 'subscription_id': 'I-MKF7FTS2TXWN'}
+2025-03-27 23:42:09,648 - \u2705 Linked subscription_id I-MKF7FTS2TXWN to user_id 1743072084846
+2025-03-27 23:42:09,675 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-27 23:42:10,664 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:42:11,940 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:42:13,168 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:42:14,434 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:42:15,643 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-27 23:47:36,766 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-27 23:48:25,509 - \U0001f4e5 Raw request body: {"user_id":1743072084846,"subscription_id":"I-7AVGTX690GP5"}
+2025-03-27 23:48:25,510 - \u2705 Parsed JSON data: {'user_id': 1743072084846, 'subscription_id': 'I-7AVGTX690GP5'}
+2025-03-27 23:48:25,534 - \u2705 Linked subscription_id I-7AVGTX690GP5 to user_id 1743072084846
+2025-03-27 23:49:03,097 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-03-27 23:49:27,005 - \U0001f4e5 Raw request body: {
+    "user_id": 1,
+    "subscription_id": "SUB-TEST123"
+}
+2025-03-27 23:49:27,007 - \u2705 Parsed JSON data: {'user_id': 1, 'subscription_id': 'SUB-TEST123'}
+2025-03-27 23:49:27,033 - \u2705 Linked subscription_id SUB-TEST123 to user_id 1
+2025-03-27 23:50:32,720 - \U0001f4e5 Raw request body: {"user_id":1743072084846,"subscription_id":"I-0H1MNEF10AWB"}
+2025-03-27 23:50:32,720 - \u2705 Parsed JSON data: {'user_id': 1743072084846, 'subscription_id': 'I-0H1MNEF10AWB'}
+2025-03-27 23:50:32,735 - \u2705 Linked subscription_id I-0H1MNEF10AWB to user_id 1743072084846
+2025-03-28 00:05:42,616 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-28 00:05:43,907 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 00:05:45,135 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 00:05:46,387 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 00:05:47,691 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 00:05:48,933 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 00:06:07,959 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-28 00:06:08,841 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:06:10,077 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:06:11,278 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:06:12,493 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:06:13,689 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:06:57,853 - \U0001f4e5 Raw request body: {"user_id":1743072084846,"subscription_id":"I-36KYELRRXSLJ"}
+2025-03-28 00:06:57,853 - \u2705 Parsed JSON data: {'user_id': 1743072084846, 'subscription_id': 'I-36KYELRRXSLJ'}
+2025-03-28 00:06:57,882 - \u2705 Linked subscription_id I-36KYELRRXSLJ to user_id 1743072084846
+2025-03-28 00:06:57,933 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-28 00:06:58,947 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:07:00,153 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:07:01,398 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:07:02,647 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:07:03,959 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:10:11,344 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-03-28 00:10:49,751 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-03-28 00:11:32,335 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-28 00:11:33,356 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 00:11:34,624 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 00:11:35,857 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 00:11:37,124 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 00:11:38,404 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 00:12:07,956 - \U0001f4e5 Raw request body: {"user_id":1743072084846,"subscription_id":"I-D2S90216EBTS"}
+2025-03-28 00:12:07,957 - \u2705 Parsed JSON data: {'user_id': 1743072084846, 'subscription_id': 'I-D2S90216EBTS'}
+2025-03-28 00:12:07,978 - \u2705 Linked subscription_id I-D2S90216EBTS to user_id 1743072084846
+2025-03-28 00:12:08,016 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-28 00:12:08,928 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:12:10,266 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:12:11,612 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:12:12,811 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:12:14,018 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:14:48,486 - Webhook processing error: 'Settings' object has no attribute 'PAYPAL_WEBHOOK_SECRET'
+2025-03-28 00:14:48,487 - Internal Server Error: /api/crawl/paypal-webhook/
+2025-03-28 00:17:44,683 - Webhook processing error: 'Settings' object has no attribute 'PAYPAL_WEBHOOK_SECRET'
+2025-03-28 00:17:44,685 - Internal Server Error: /api/crawl/paypal-webhook/
+2025-03-28 00:24:02,356 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\odin_backend\settings.py changed, reloading.
+2025-03-28 00:24:12,650 - Invalid webhook signature
+2025-03-28 00:24:12,653 - Unauthorized: /api/crawl/paypal-webhook/
+2025-03-28 00:36:11,401 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\paypal_webhook.py changed, reloading.
+2025-03-28 00:36:28,743 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-28 00:36:29,681 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:36:30,991 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:36:32,235 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:36:33,478 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:36:34,716 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:37:02,350 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-28 00:37:03,228 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:37:04,514 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:37:05,790 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:37:07,021 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:37:08,383 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:37:48,339 - \U0001f4e5 Raw request body: {"user_id":1743072084846,"subscription_id":"I-DGUTF5L9WV37"}
+2025-03-28 00:37:48,340 - \u2705 Parsed JSON data: {'user_id': 1743072084846, 'subscription_id': 'I-DGUTF5L9WV37'}
+2025-03-28 00:37:48,352 - \u2705 Linked subscription_id I-DGUTF5L9WV37 to user_id 1743072084846
+2025-03-28 00:37:48,365 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-28 00:37:49,234 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:37:50,506 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:37:52,029 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:37:53,284 - response: https://html.duckduckgo.com/html 200
+2025-03-28 00:37:54,464 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:05:37,134 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-28 01:05:38,280 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:05:39,464 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:05:40,684 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:05:41,938 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:05:43,171 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:10:11,320 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\paypal_webhook.py changed, reloading.
+2025-03-28 01:10:21,415 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\paypal_webhook.py changed, reloading.
+2025-03-28 01:12:14,647 - Received request: {"user_id":1743104527122,"keyword":"defence"}
+2025-03-28 01:12:15,603 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:12:16,907 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:12:18,138 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:12:19,354 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:12:20,619 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:13:30,787 - \U0001f4e5 Raw request body: {"user_id":1743104527122,"subscription_id":"I-9JE6VS4F7NUF"}
+2025-03-28 01:13:30,795 - \u2705 Parsed JSON data: {'user_id': 1743104527122, 'subscription_id': 'I-9JE6VS4F7NUF'}
+2025-03-28 01:13:30,816 - \u2705 Linked subscription_id I-9JE6VS4F7NUF to user_id 1743104527122
+2025-03-28 01:13:30,861 - Received request: {"user_id":1743104527122,"keyword":"defence"}
+2025-03-28 01:13:31,859 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:13:33,083 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:13:34,319 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:13:35,560 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:13:36,801 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:13:45,046 - Received request: {"user_id":1743104527122,"keyword":"defence"}
+2025-03-28 01:13:46,188 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:13:47,496 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:13:48,849 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:13:50,033 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:13:51,289 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:14:20,055 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\paypal_webhook.py changed, reloading.
+2025-03-28 01:15:07,903 - Received request: {"user_id":1743104527122,"keyword":"defence"}
+2025-03-28 01:15:08,754 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:15:10,011 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:15:11,215 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:15:12,483 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:15:13,720 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:15:47,062 - \U0001f4e5 Raw request body: {"user_id":1743104527122,"subscription_id":"I-H4TGWSKXSTSA"}
+2025-03-28 01:15:47,062 - \u2705 Parsed JSON data: {'user_id': 1743104527122, 'subscription_id': 'I-H4TGWSKXSTSA'}
+2025-03-28 01:15:47,087 - \u2705 Linked subscription_id I-H4TGWSKXSTSA to user_id 1743104527122
+2025-03-28 01:15:47,146 - Received request: {"user_id":1743104527122,"keyword":"defence"}
+2025-03-28 01:15:48,120 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:15:49,298 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:15:50,521 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:15:51,824 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:15:53,067 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:17:03,207 - Received request: {"user_id":1743104527122,"keyword":"defence"}
+2025-03-28 01:17:04,284 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:17:05,564 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:17:06,784 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:17:08,203 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:17:09,450 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:17:40,547 - \U0001f4e5 Raw request body: {"user_id":1743104527122,"subscription_id":"I-VH2L77FU8GLP"}
+2025-03-28 01:17:40,547 - \u2705 Parsed JSON data: {'user_id': 1743104527122, 'subscription_id': 'I-VH2L77FU8GLP'}
+2025-03-28 01:17:40,571 - \u2705 Linked subscription_id I-VH2L77FU8GLP to user_id 1743104527122
+2025-03-28 01:17:40,630 - Received request: {"user_id":1743104527122,"keyword":"defence"}
+2025-03-28 01:17:41,883 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:17:43,162 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:17:44,394 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:17:45,727 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:17:47,053 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:18:24,752 - Received request: {"user_id":1743072084846,"keyword":"defence"}
+2025-03-28 01:18:25,739 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:18:26,940 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:18:28,282 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:18:29,562 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:18:30,841 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:20:29,547 - Received request: {"user_id":1743104527122,"keyword":"defence"}
+2025-03-28 01:20:30,684 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:20:31,963 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:20:33,404 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:20:34,683 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:20:35,962 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:21:05,753 - \U0001f4e5 Raw request body: {"user_id":1743104527122,"subscription_id":"I-6TBRASLNB94D"}
+2025-03-28 01:21:05,753 - \u2705 Parsed JSON data: {'user_id': 1743104527122, 'subscription_id': 'I-6TBRASLNB94D'}
+2025-03-28 01:21:05,765 - \u2705 Linked subscription_id I-6TBRASLNB94D to user_id 1743104527122
+2025-03-28 01:21:05,808 - Received request: {"user_id":1743104527122,"keyword":"defence"}
+2025-03-28 01:21:06,866 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:21:08,291 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:21:09,657 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:21:10,914 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:21:12,604 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:36:55,709 - Received request: {"user_id":1743104527122,"keyword":"defence"}
+2025-03-28 01:36:56,919 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:36:58,360 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:36:59,569 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:37:00,925 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:37:02,213 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:37:17,916 - Not Found: /paypal-webhook/
+2025-03-28 01:37:48,814 - Not Found: /paypal-webhook/
+2025-03-28 01:37:52,040 - \U0001f4e5 Raw request body: {"user_id":1743104527122,"subscription_id":"I-1LTVTVK2J244"}
+2025-03-28 01:37:52,041 - \u2705 Parsed JSON data: {'user_id': 1743104527122, 'subscription_id': 'I-1LTVTVK2J244'}
+2025-03-28 01:37:52,056 - \u2705 Linked subscription_id I-1LTVTVK2J244 to user_id 1743104527122
+2025-03-28 01:37:52,114 - Received request: {"user_id":1743104527122,"keyword":"defence"}
+2025-03-28 01:37:53,080 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:37:53,899 - Not Found: /paypal-webhook/
+2025-03-28 01:37:54,360 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:37:55,609 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:37:56,759 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:37:58,039 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:38:17,750 - Not Found: /paypal-webhook/
+2025-03-28 01:38:44,316 - Not Found: /paypal-webhook/
+2025-03-28 01:38:44,370 - Not Found: /paypal-webhook/
+2025-03-28 01:38:49,362 - Not Found: /paypal-webhook/
+2025-03-28 01:39:41,899 - Not Found: /paypal-webhook/
+2025-03-28 01:40:52,153 - Received request: {"user_id":1743104527122,"keyword":"defence"}
+2025-03-28 01:40:53,401 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:40:54,686 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:40:55,985 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:40:57,239 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:40:58,528 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:41:15,389 - Not Found: /paypal-webhook/
+2025-03-28 01:41:18,797 - Not Found: /paypal-webhook/
+2025-03-28 01:41:27,754 - \U0001f4e5 Raw request body: {"user_id":1743104527122,"subscription_id":"I-9NF2M79X8EYU"}
+2025-03-28 01:41:27,755 - \u2705 Parsed JSON data: {'user_id': 1743104527122, 'subscription_id': 'I-9NF2M79X8EYU'}
+2025-03-28 01:41:27,780 - \u2705 Linked subscription_id I-9NF2M79X8EYU to user_id 1743104527122
+2025-03-28 01:41:27,843 - Received request: {"user_id":1743104527122,"keyword":"defence"}
+2025-03-28 01:41:28,943 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:41:30,125 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:41:31,318 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:41:32,605 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:41:33,911 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:41:47,890 - Not Found: /paypal-webhook/
+2025-03-28 01:41:51,341 - Not Found: /paypal-webhook/
+2025-03-28 01:41:56,141 - Not Found: /paypal-webhook/
+2025-03-28 01:42:13,915 - Not Found: /paypal-webhook/
+2025-03-28 01:42:18,213 - Not Found: /paypal-webhook/
+2025-03-28 01:44:18,668 - Received request: {"user_id":1743104527122,"keyword":"defence"}
+2025-03-28 01:44:19,640 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:44:20,863 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:44:22,118 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:44:23,389 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:44:24,562 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:44:38,356 - Invalid webhook signature
+2025-03-28 01:44:38,357 - Unauthorized: /api/crawl/paypal-webhook/
+2025-03-28 01:44:53,829 - \U0001f4e5 Raw request body: {"user_id":1743104527122,"subscription_id":"I-1CAXCH8AGJ7A"}
+2025-03-28 01:44:53,829 - \u2705 Parsed JSON data: {'user_id': 1743104527122, 'subscription_id': 'I-1CAXCH8AGJ7A'}
+2025-03-28 01:44:53,855 - \u2705 Linked subscription_id I-1CAXCH8AGJ7A to user_id 1743104527122
+2025-03-28 01:44:53,910 - Received request: {"user_id":1743104527122,"keyword":"defence"}
+2025-03-28 01:44:54,838 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:44:56,084 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:44:57,604 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:44:58,815 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:45:00,121 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:45:05,014 - Invalid webhook signature
+2025-03-28 01:45:05,015 - Unauthorized: /api/crawl/paypal-webhook/
+2025-03-28 01:45:13,884 - Invalid webhook signature
+2025-03-28 01:45:13,885 - Unauthorized: /api/crawl/paypal-webhook/
+2025-03-28 01:45:17,886 - Invalid webhook signature
+2025-03-28 01:45:17,887 - Unauthorized: /api/crawl/paypal-webhook/
+2025-03-28 01:45:44,310 - Not Found: /paypal-webhook/
+2025-03-28 01:45:44,500 - Invalid webhook signature
+2025-03-28 01:45:44,500 - Unauthorized: /api/crawl/paypal-webhook/
+2025-03-28 01:45:48,609 - Invalid webhook signature
+2025-03-28 01:45:48,609 - Unauthorized: /api/crawl/paypal-webhook/
+2025-03-28 01:46:45,418 - Invalid webhook signature
+2025-03-28 01:46:45,419 - Unauthorized: /api/crawl/paypal-webhook/
+2025-03-28 01:47:05,737 - Invalid webhook signature
+2025-03-28 01:47:05,737 - Unauthorized: /api/crawl/paypal-webhook/
+2025-03-28 01:47:07,719 - Not Found: /paypal-webhook/
+2025-03-28 01:48:18,047 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-03-28 01:48:23,208 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-03-28 01:48:35,324 - Received request: {"user_id":1743104527122,"keyword":"defence"}
+2025-03-28 01:48:36,443 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:48:37,861 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:48:39,173 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:48:40,460 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:48:41,724 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:48:58,190 - Bad Request: /api/crawl/paypal-webhook/
+2025-03-28 01:49:12,265 - \U0001f4e5 Raw request body: {"user_id":1743104527122,"subscription_id":"I-619D53EJ1M6G"}
+2025-03-28 01:49:12,265 - \u2705 Parsed JSON data: {'user_id': 1743104527122, 'subscription_id': 'I-619D53EJ1M6G'}
+2025-03-28 01:49:12,280 - \u2705 Linked subscription_id I-619D53EJ1M6G to user_id 1743104527122
+2025-03-28 01:49:12,345 - Received request: {"user_id":1743104527122,"keyword":"defence"}
+2025-03-28 01:49:13,417 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:49:14,680 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:49:15,165 - Bad Request: /api/crawl/paypal-webhook/
+2025-03-28 01:49:15,898 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:49:17,110 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:49:18,523 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:49:24,123 - Bad Request: /api/crawl/paypal-webhook/
+2025-03-28 01:49:28,675 - Bad Request: /api/crawl/paypal-webhook/
+2025-03-28 01:49:29,374 - Bad Request: /api/crawl/paypal-webhook/
+2025-03-28 01:49:38,844 - Bad Request: /api/crawl/paypal-webhook/
+2025-03-28 01:50:02,094 - Bad Request: /api/crawl/paypal-webhook/
+2025-03-28 01:50:14,938 - Bad Request: /api/crawl/paypal-webhook/
+2025-03-28 01:50:26,829 - Bad Request: /api/crawl/paypal-webhook/
+2025-03-28 01:50:43,983 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\odin_backend\settings.py changed, reloading.
+2025-03-28 01:51:50,608 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 01:51:51,625 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:51:52,854 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:51:54,020 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:51:55,323 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:51:56,561 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:52:18,913 - Not Found: /api/crawl/paypal-webhook/
+2025-03-28 01:52:37,749 - \U0001f4e5 Raw request body: {"user_id":1743106905231,"subscription_id":"I-J7VY9RGCTJS3"}
+2025-03-28 01:52:37,749 - \u2705 Parsed JSON data: {'user_id': 1743106905231, 'subscription_id': 'I-J7VY9RGCTJS3'}
+2025-03-28 01:52:37,766 - \u2705 Linked subscription_id I-J7VY9RGCTJS3 to user_id 1743106905231
+2025-03-28 01:52:37,809 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 01:52:38,747 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:52:40,151 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:52:41,440 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:52:42,673 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:52:43,920 - response: https://html.duckduckgo.com/html 200
+2025-03-28 01:52:54,109 - Received request: {"user_id":1743104527122,"keyword":"defence"}
+2025-03-28 01:52:55,165 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:52:56,603 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:52:58,044 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:52:59,323 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:53:00,763 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:53:07,080 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 01:53:08,135 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:53:09,402 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:53:10,690 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:53:12,201 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 01:53:13,589 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 02:05:51,512 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 02:05:52,609 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:05:53,888 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:05:55,166 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:05:56,447 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:05:57,735 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:06:19,592 - Not Found: /api/crawl/paypal-webhook/
+2025-03-28 02:06:26,576 - \U0001f4e5 Raw request body: {"user_id":1743106905231,"subscription_id":"I-4PAG3PK4VB81"}
+2025-03-28 02:06:26,577 - \u2705 Parsed JSON data: {'user_id': 1743106905231, 'subscription_id': 'I-4PAG3PK4VB81'}
+2025-03-28 02:06:26,596 - \u2705 Linked subscription_id I-4PAG3PK4VB81 to user_id 1743106905231
+2025-03-28 02:06:26,631 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 02:06:27,647 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:06:28,927 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:06:30,216 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:06:31,487 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:06:32,767 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:06:34,579 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 02:06:35,800 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 02:06:37,100 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 02:06:38,380 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 02:06:39,667 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 02:06:40,900 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 02:09:20,799 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 02:09:22,210 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:09:23,509 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:09:24,768 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:09:26,049 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:09:27,289 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:12:46,808 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 02:12:47,808 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:12:49,021 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:12:50,278 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:12:51,649 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:12:52,949 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:13:05,774 - Not Found: /api/crawl/paypal-webhook/
+2025-03-28 02:13:21,054 - \U0001f4e5 Raw request body: {"user_id":1743106905231,"subscription_id":"I-DR9THMUVWP77"}
+2025-03-28 02:13:21,056 - \u2705 Parsed JSON data: {'user_id': 1743106905231, 'subscription_id': 'I-DR9THMUVWP77'}
+2025-03-28 02:13:21,074 - \u2705 Linked subscription_id I-DR9THMUVWP77 to user_id 1743106905231
+2025-03-28 02:13:21,097 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 02:13:22,208 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:13:23,488 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:13:24,766 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:13:26,056 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:13:27,330 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:13:28,845 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 02:13:29,890 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 02:13:31,138 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 02:13:32,525 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 02:13:33,890 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 02:13:35,168 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 02:13:43,751 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 02:13:44,686 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:13:46,049 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:13:47,329 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:13:48,610 - response: https://html.duckduckgo.com/html 200
+2025-03-28 02:13:49,889 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:36:26,288 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 10:36:27,346 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:36:28,622 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:36:29,953 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:36:31,190 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:36:32,540 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:37:14,726 - \U0001f4e5 Raw request body: {"user_id":1743106905231,"subscription_id":"I-S62M2KAVY93W"}
+2025-03-28 10:37:14,727 - \u2705 Parsed JSON data: {'user_id': 1743106905231, 'subscription_id': 'I-S62M2KAVY93W'}
+2025-03-28 10:37:14,754 - \u2705 Linked subscription_id I-S62M2KAVY93W to user_id 1743106905231
+2025-03-28 10:37:14,783 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 10:37:15,817 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:37:17,016 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:37:18,287 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:37:19,638 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:37:20,935 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:42:32,598 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 10:42:33,866 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:42:35,293 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:42:37,011 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:42:38,462 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:42:39,867 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:43:06,771 - \U0001f4e5 Raw request body: {"user_id":1743106905231,"subscription_id":"I-UV4ETMCAM3WC"}
+2025-03-28 10:43:06,772 - \u2705 Parsed JSON data: {'user_id': 1743106905231, 'subscription_id': 'I-UV4ETMCAM3WC'}
+2025-03-28 10:43:06,790 - \u2705 Linked subscription_id I-UV4ETMCAM3WC to user_id 1743106905231
+2025-03-28 10:43:06,825 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 10:43:07,967 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 10:43:09,456 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 10:43:10,872 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 10:43:12,282 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 10:43:13,478 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 10:43:14,634 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 10:43:15,769 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 10:43:16,958 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 10:43:18,373 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 10:43:19,682 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 10:43:21,278 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 10:43:40,966 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\paypal_webhook.py changed, reloading.
+2025-03-28 10:43:52,792 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 10:43:53,968 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 10:43:55,147 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 10:43:56,365 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 10:43:57,808 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 10:43:59,020 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 10:44:27,794 - \U0001f4e5 Raw request body: {"user_id":1743106905231,"subscription_id":"I-KPAN91FYG7NY"}
+2025-03-28 10:44:27,795 - \u2705 Parsed JSON data: {'user_id': 1743106905231, 'subscription_id': 'I-KPAN91FYG7NY'}
+2025-03-28 10:44:27,815 - \u2705 Linked subscription_id I-KPAN91FYG7NY to user_id 1743106905231
+2025-03-28 10:44:27,850 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 10:44:28,771 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:44:30,186 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:44:31,569 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:44:33,029 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:44:34,410 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:44:36,212 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 10:44:37,242 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:44:38,431 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:44:39,846 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:44:41,107 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:44:42,500 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:48:13,861 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\paypal_webhook.py changed, reloading.
+2025-03-28 10:48:37,525 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 10:48:38,629 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:48:39,849 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:48:41,171 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:48:42,495 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:48:43,760 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:49:08,328 - \U0001f4e5 Raw request body: {"user_id":1743106905231,"subscription_id":"I-10Y124U7T1M8"}
+2025-03-28 10:49:08,328 - \u2705 Parsed JSON data: {'user_id': 1743106905231, 'subscription_id': 'I-10Y124U7T1M8'}
+2025-03-28 10:49:08,353 - \u2705 Linked subscription_id I-10Y124U7T1M8 to user_id 1743106905231
+2025-03-28 10:49:08,390 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 10:49:09,565 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:49:10,765 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:49:12,176 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:49:13,407 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:49:14,636 - response: https://html.duckduckgo.com/html 200
+2025-03-28 10:52:37,845 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\odin_backend\settings.py changed, reloading.
+2025-03-28 10:53:22,486 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 10:53:23,769 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 10:53:25,094 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 10:53:26,579 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 10:53:27,826 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 10:53:29,670 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 10:53:57,176 - \U0001f4e5 Raw request body: {"user_id":1743106905231,"subscription_id":"I-MT4DKUSCF1U4"}
+2025-03-28 10:53:57,176 - \u2705 Parsed JSON data: {'user_id': 1743106905231, 'subscription_id': 'I-MT4DKUSCF1U4'}
+2025-03-28 10:53:57,204 - \u2705 Linked subscription_id I-MT4DKUSCF1U4 to user_id 1743106905231
+2025-03-28 10:53:57,229 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 10:53:58,117 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 10:53:59,331 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 10:54:00,503 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 10:54:01,942 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 10:54:03,146 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 10:57:48,070 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\paypal_webhook.py changed, reloading.
+2025-03-28 10:58:14,941 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\paypal_webhook.py changed, reloading.
+2025-03-28 10:59:19,909 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\paypal_webhook.py changed, reloading.
+2025-03-28 19:53:18,833 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 19:53:19,941 - response: https://html.duckduckgo.com/html 200
+2025-03-28 19:53:21,301 - response: https://html.duckduckgo.com/html 200
+2025-03-28 19:53:22,973 - response: https://html.duckduckgo.com/html 200
+2025-03-28 19:53:24,436 - response: https://html.duckduckgo.com/html 200
+2025-03-28 19:53:25,902 - response: https://html.duckduckgo.com/html 200
+2025-03-28 19:54:17,692 - Received request: {"user_id":1743106905231,"keyword":"defence","url":"https://www.czdefence.cz/"}
+2025-03-28 19:54:18,822 - response: https://html.duckduckgo.com/html 200
+2025-03-28 19:54:20,259 - response: https://html.duckduckgo.com/html 200
+2025-03-28 19:54:21,454 - response: https://html.duckduckgo.com/html 200
+2025-03-28 19:54:22,840 - response: https://html.duckduckgo.com/html 200
+2025-03-28 19:54:24,059 - response: https://html.duckduckgo.com/html 200
+2025-03-28 19:54:29,749 - Received request: {"user_id":1743106905231,"url":"https://www.czdefence.cz/"}
+2025-03-28 19:55:25,100 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 19:55:26,276 - response: https://html.duckduckgo.com/html 200
+2025-03-28 19:55:27,541 - response: https://html.duckduckgo.com/html 200
+2025-03-28 19:55:28,755 - response: https://html.duckduckgo.com/html 200
+2025-03-28 19:55:29,935 - response: https://html.duckduckgo.com/html 200
+2025-03-28 19:55:31,357 - response: https://html.duckduckgo.com/html 200
+2025-03-28 19:55:57,753 - \U0001f4e5 Raw request body: {"user_id":1743106905231,"subscription_id":"I-1HN58E747ENS"}
+2025-03-28 19:55:57,754 - \u2705 Parsed JSON data: {'user_id': 1743106905231, 'subscription_id': 'I-1HN58E747ENS'}
+2025-03-28 19:55:57,788 - \u2705 Linked subscription_id I-1HN58E747ENS to user_id 1743106905231
+2025-03-28 19:55:57,806 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 19:55:58,963 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 19:56:00,356 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 19:56:01,788 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 19:56:03,190 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 19:56:04,429 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:05:23,055 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 20:05:24,317 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:05:25,648 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:05:26,915 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:05:28,420 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:05:29,847 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:05:45,409 - Not Found: /api/crawl/paypal-webhook/
+2025-03-28 20:06:13,259 - Not Found: /api/crawl/paypal-webhook/
+2025-03-28 20:06:19,299 - Not Found: /api/crawl/paypal-webhook/
+2025-03-28 20:06:45,653 - \U0001f4e5 Raw request body: {"user_id":1743106905231,"subscription_id":"I-JT65DCEWK6RU"}
+2025-03-28 20:06:45,654 - \u2705 Parsed JSON data: {'user_id': 1743106905231, 'subscription_id': 'I-JT65DCEWK6RU'}
+2025-03-28 20:06:45,680 - \u2705 Linked subscription_id I-JT65DCEWK6RU to user_id 1743106905231
+2025-03-28 20:06:45,706 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 20:06:46,797 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:06:48,273 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:06:49,927 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:06:51,244 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:06:52,575 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:06:54,668 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 20:06:55,748 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:06:57,097 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:06:59,038 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:07:00,326 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:07:01,691 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:08:38,360 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\paypal_webhook.py changed, reloading.
+2025-03-28 20:13:58,702 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 20:14:00,088 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:14:01,653 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:14:03,045 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:14:04,406 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:14:05,732 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:14:28,970 - Not Found: /api/crawl/paypal-webhook/
+2025-03-28 20:14:38,042 - \U0001f4e5 Raw request body: {"user_id":1743106905231,"subscription_id":"I-FW95UPTF1UAH"}
+2025-03-28 20:14:38,042 - \u2705 Parsed JSON data: {'user_id': 1743106905231, 'subscription_id': 'I-FW95UPTF1UAH'}
+2025-03-28 20:14:38,058 - \u2705 Linked subscription_id I-FW95UPTF1UAH to user_id 1743106905231
+2025-03-28 20:14:38,071 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 20:14:39,126 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:14:40,753 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:14:42,081 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:14:43,829 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:14:45,572 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:15:41,169 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\paypal_webhook.py changed, reloading.
+2025-03-28 20:15:50,836 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 20:15:51,925 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:15:53,658 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:15:55,112 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:15:56,639 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:15:58,062 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:16:13,474 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 20:16:14,660 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:16:16,094 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:16:17,422 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:16:18,960 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:16:20,180 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:18:36,390 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 20:18:37,503 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:18:39,144 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:18:40,428 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:18:41,913 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:18:43,284 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:18:59,211 - Not Found: /api/crawl/paypal-webhook/
+2025-03-28 20:19:11,751 - \U0001f4e5 Raw request body: {"user_id":1743106905231,"subscription_id":"I-KHTR5M48BDW6"}
+2025-03-28 20:19:11,751 - \u2705 Parsed JSON data: {'user_id': 1743106905231, 'subscription_id': 'I-KHTR5M48BDW6'}
+2025-03-28 20:19:11,779 - \u2705 Linked subscription_id I-KHTR5M48BDW6 to user_id 1743106905231
+2025-03-28 20:19:11,805 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 20:19:12,941 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:19:14,376 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:19:15,812 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:19:17,139 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:19:18,470 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:19:29,147 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 20:19:30,087 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:19:31,340 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:19:32,809 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:19:34,235 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:19:35,474 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:19:45,224 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 20:19:46,325 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:19:47,858 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:19:49,190 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:19:50,440 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:19:51,852 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:21:01,865 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 20:21:02,920 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:21:04,254 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:21:05,583 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:21:07,022 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:21:08,557 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:21:30,167 - Received request: {"user_id":1743106905231,"url":"https://www.realcleardefense.com/"}
+2025-03-28 20:21:30,975 - \u274c Error fetching https://www.realcleardefense.com/: 403 Client Error: HTTP Forbidden for url: https://www.realcleardefense.com/
+2025-03-28 20:21:34,763 - Received request: {"user_id":1743106905231,"url":"https://www.realcleardefense.com/"}
+2025-03-28 20:21:34,935 - \u274c Error fetching https://www.realcleardefense.com/: 403 Client Error: HTTP Forbidden for url: https://www.realcleardefense.com/
+2025-03-28 20:21:58,378 - Received request: {"user_id":1743106905231,"keyword":"defence","url":"https://www.realcleardefense.com/"}
+2025-03-28 20:21:59,647 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:22:00,986 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:22:02,311 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:22:03,533 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:22:04,875 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:22:11,096 - Received request: {"user_id":1743106905231,"url":"https://www.realcleardefense.com/"}
+2025-03-28 20:22:48,660 - Received request: {"user_id":1743106905231,"keyword":"python"}
+2025-03-28 20:22:49,615 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:22:51,070 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:22:52,491 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:22:53,810 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:22:55,152 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:23:10,776 - Received request: {"user_id":1743106905231,"url":"https://www.python.org/downloads/release/python-380/"}
+2025-03-28 20:26:59,667 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 20:27:00,908 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:27:02,159 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:27:03,743 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:27:05,205 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:27:06,475 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:27:29,584 - Not Found: /api/crawl/paypal-webhook/
+2025-03-28 20:27:45,793 - \U0001f4e5 Raw request body: {"user_id":1743106905231,"subscription_id":"I-SENTLGL31394"}
+2025-03-28 20:27:45,794 - \u2705 Parsed JSON data: {'user_id': 1743106905231, 'subscription_id': 'I-SENTLGL31394'}
+2025-03-28 20:27:45,816 - \u2705 Linked subscription_id I-SENTLGL31394 to user_id 1743106905231
+2025-03-28 20:27:45,831 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 20:27:46,884 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:27:48,318 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:27:49,755 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:27:51,196 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:27:52,617 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:28:05,188 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 20:28:06,547 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:28:07,886 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:28:09,215 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:28:10,602 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:28:12,292 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:28:13,085 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 20:28:14,229 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:28:15,669 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:28:16,983 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:28:18,325 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:28:19,967 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:37:54,631 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 20:37:55,727 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:37:57,053 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:37:58,540 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:37:59,959 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:38:01,255 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 20:38:09,926 - Received request: {"user_id":1743106905231,"keyword":"python"}
+2025-03-28 20:38:11,121 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:38:12,558 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:38:13,981 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:38:15,529 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:38:16,967 - response: https://html.duckduckgo.com/html 200
+2025-03-28 20:38:28,599 - Received request: {"user_id":1743106905231,"url":"https://www.python.org/"}
+2025-03-28 21:02:31,662 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\scraper.py changed, reloading.
+2025-03-28 21:03:15,326 - Received request: {"user_id":1743106905231,"keyword":"python"}
+2025-03-28 21:03:16,528 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 21:03:18,053 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 21:03:19,314 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 21:03:20,591 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 21:03:22,082 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 21:03:34,879 - Received request: {"user_id":1743106905231,"url":"https://www.w3schools.com/python/python_getstarted.asp"}
+2025-03-28 22:04:52,870 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\scraper.py changed, reloading.
+2025-03-28 22:05:03,862 - Received request: {"user_id":1743106905231,"keyword":"python"}
+2025-03-28 22:05:05,027 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:05:06,307 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:05:07,598 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:05:08,791 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:05:10,149 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:05:27,973 - Received request: {"user_id":1743106905231,"url":"https://www.w3schools.com/python/python_functions.asp"}
+2025-03-28 22:09:19,945 - Received request: {"user_id":1743106905231,"keyword":"python"}
+2025-03-28 22:09:20,915 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:09:22,255 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:09:23,588 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:09:25,031 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:09:26,287 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:09:40,777 - Received request: {"user_id":1743106905231,"url":"https://docs.python.org/3/installing/index.html"}
+2025-03-28 22:09:56,254 - Received request: {"user_id":1743106905231,"keyword":"python","url":"https://docs.python.org/3/installing/index.html"}
+2025-03-28 22:09:57,348 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:09:58,759 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:10:00,070 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:10:01,343 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:10:02,641 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:10:18,748 - Received request: {"user_id":1743106905231,"url":"https://www.w3schools.com/python/python_functions.asp"}
+2025-03-28 22:10:51,001 - Received request: {"user_id":1743106905231,"url":"https://www.w3schools.com/python/python_functions.asp"}
+2025-03-28 22:20:14,842 - Received request: {"user_id":1743106905231,"keyword":"japan marine investors"}
+2025-03-28 22:20:16,419 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 22:20:17,833 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 22:20:19,271 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 22:20:20,552 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 22:20:21,833 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 22:20:33,458 - Received request: {"user_id":1743106905231,"keyword":"japan marine investors","url":"https://www.tokiomarinehd.com/en/ir/download/2021.html"}
+2025-03-28 22:20:34,582 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:20:35,913 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:20:37,192 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:20:38,523 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:20:39,922 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:20:41,764 - Received request: {"user_id":1743106905231,"url":"https://www.tokiomarinehd.com/en/ir/download/2021.html"}
+2025-03-28 22:35:09,546 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\scraper.py changed, reloading.
+2025-03-28 22:36:30,781 - Received request: {"user_id":1743106905231,"keyword":"python"}
+2025-03-28 22:36:31,977 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:36:33,516 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:36:35,225 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:36:36,881 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:36:38,315 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:37:20,891 - Received request: {"user_id":1743106905231,"url":"https://docs.python.org/3/tutorial/index.html"}
+2025-03-28 22:38:02,608 - Received request: {"user_id":1743106905231,"keyword":"marine investors"}
+2025-03-28 22:38:03,694 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:38:05,214 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:38:06,580 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:38:07,947 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:38:09,357 - response: https://html.duckduckgo.com/html 200
+2025-03-28 22:38:53,922 - Received request: {"user_id":1743106905231,"url":"https://marps-marine.com/"}
+2025-03-28 22:39:06,579 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\scraper.py changed, reloading.
+2025-03-28 23:14:05,288 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\odin_backend\settings.py changed, reloading.
+2025-03-28 23:14:26,516 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\odin_backend\settings.py changed, reloading.
+2025-03-28 23:14:44,249 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\odin_backend\settings.py changed, reloading.
+2025-03-28 23:19:19,673 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\paypal_webhook.py changed, reloading.
+2025-03-28 23:23:19,266 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 23:23:20,407 - response: https://html.duckduckgo.com/html 200
+2025-03-28 23:23:21,849 - response: https://html.duckduckgo.com/html 200
+2025-03-28 23:23:23,136 - response: https://html.duckduckgo.com/html 200
+2025-03-28 23:23:24,408 - response: https://html.duckduckgo.com/html 200
+2025-03-28 23:23:25,849 - response: https://html.duckduckgo.com/html 200
+2025-03-28 23:28:27,127 - Not Found: /api/crawl/paypal-webhook/
+2025-03-28 23:28:53,704 - Not Found: /api/crawl/paypal-webhook/
+2025-03-28 23:28:59,736 - Not Found: /api/crawl/paypal-webhook/
+2025-03-28 23:31:13,975 - Not Found: /api/crawl/paypal-webhook/
+2025-03-28 23:35:47,454 - \U0001f4e5 Raw request body: {"user_id":1743106905231,"subscription_id":"I-3FK0T0SS29VR"}
+2025-03-28 23:35:47,457 - \u2705 Parsed JSON data: {'user_id': 1743106905231, 'subscription_id': 'I-3FK0T0SS29VR'}
+2025-03-28 23:35:47,475 - \u2705 Linked subscription_id I-3FK0T0SS29VR to user_id 1743106905231
+2025-03-28 23:35:56,478 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 23:35:57,477 - response: https://html.duckduckgo.com/html 200
+2025-03-28 23:35:58,824 - response: https://html.duckduckgo.com/html 200
+2025-03-28 23:36:00,075 - response: https://html.duckduckgo.com/html 200
+2025-03-28 23:36:01,300 - response: https://html.duckduckgo.com/html 200
+2025-03-28 23:36:02,653 - response: https://html.duckduckgo.com/html 200
+2025-03-28 23:36:13,494 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 23:36:14,819 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:36:16,060 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:36:17,328 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:36:18,655 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:36:20,094 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:37:10,108 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\paypal_webhook.py changed, reloading.
+2025-03-28 23:37:15,884 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 23:37:17,214 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:37:18,496 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:37:20,256 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:37:21,535 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:37:22,816 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:37:49,485 - \U0001f4e5 Raw request body: {"user_id":1743106905231,"subscription_id":"I-HAH4D6YR85PE"}
+2025-03-28 23:37:49,485 - \u2705 Parsed JSON data: {'user_id': 1743106905231, 'subscription_id': 'I-HAH4D6YR85PE'}
+2025-03-28 23:37:49,513 - \u2705 Linked subscription_id I-HAH4D6YR85PE to user_id 1743106905231
+2025-03-28 23:37:49,554 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 23:37:50,499 - response: https://html.duckduckgo.com/html 200
+2025-03-28 23:37:51,934 - response: https://html.duckduckgo.com/html 200
+2025-03-28 23:37:53,189 - response: https://html.duckduckgo.com/html 200
+2025-03-28 23:37:54,496 - response: https://html.duckduckgo.com/html 200
+2025-03-28 23:37:55,775 - response: https://html.duckduckgo.com/html 200
+2025-03-28 23:39:41,808 - C:\Users\Yashas\Downloads\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\paypal_webhook.py changed, reloading.
+2025-03-28 23:50:45,674 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 23:50:46,821 - response: https://html.duckduckgo.com/html 200
+2025-03-28 23:50:48,099 - response: https://html.duckduckgo.com/html 200
+2025-03-28 23:50:49,380 - response: https://html.duckduckgo.com/html 200
+2025-03-28 23:50:50,659 - response: https://html.duckduckgo.com/html 200
+2025-03-28 23:50:51,944 - response: https://html.duckduckgo.com/html 200
+2025-03-28 23:51:29,700 - Not Found: /api/crawl/paypal-webhook/
+2025-03-28 23:51:34,359 - \U0001f4e5 Raw request body: {"user_id":1743106905231,"subscription_id":"I-L9AKTUE8PLRV"}
+2025-03-28 23:51:34,359 - \u2705 Parsed JSON data: {'user_id': 1743106905231, 'subscription_id': 'I-L9AKTUE8PLRV'}
+2025-03-28 23:51:34,379 - \u2705 Linked subscription_id I-L9AKTUE8PLRV to user_id 1743106905231
+2025-03-28 23:51:42,110 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 23:51:43,140 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:51:44,419 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:51:45,700 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:51:46,979 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:51:48,260 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:51:55,151 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 23:51:56,108 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:51:57,541 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:51:58,833 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:52:00,100 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:52:01,373 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:55:28,128 - Not Found: /api/crawl/paypal-webhook/
+2025-03-28 23:55:40,923 - \U0001f4e5 Raw request body: {"user_id":1743106905231,"subscription_id":"I-SNDV7PNHGT02"}
+2025-03-28 23:55:40,924 - \u2705 Parsed JSON data: {'user_id': 1743106905231, 'subscription_id': 'I-SNDV7PNHGT02'}
+2025-03-28 23:55:40,950 - \u2705 Linked subscription_id I-SNDV7PNHGT02 to user_id 1743106905231
+2025-03-28 23:55:54,914 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 23:55:55,913 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:55:57,181 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:55:58,396 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:55:59,603 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:56:00,901 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:56:11,071 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 23:56:12,100 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:56:13,382 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:56:14,661 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:56:15,942 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:56:17,219 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:58:00,328 - Not Found: /api/crawl/paypal-webhook/
+2025-03-28 23:58:02,936 - \U0001f4e5 Raw request body: {"user_id":1743106905231,"subscription_id":"I-1P0NX8SJ98D5"}
+2025-03-28 23:58:02,936 - \u2705 Parsed JSON data: {'user_id': 1743106905231, 'subscription_id': 'I-1P0NX8SJ98D5'}
+2025-03-28 23:58:02,962 - \u2705 Linked subscription_id I-1P0NX8SJ98D5 to user_id 1743106905231
+2025-03-28 23:58:10,686 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 23:58:11,675 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:58:12,902 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:58:14,181 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:58:15,466 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:58:16,748 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:58:24,214 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 23:58:25,190 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:58:26,662 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:58:27,868 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:58:29,132 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:58:30,359 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-28 23:59:59,021 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-28 23:59:59,993 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-29 00:00:01,243 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-29 00:00:02,504 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-29 00:00:03,782 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-29 00:00:05,061 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-29 00:00:18,950 - Not Found: /api/crawl/paypal-webhook/
+2025-03-29 00:00:31,700 - \U0001f4e5 Raw request body: {"user_id":1743106905231,"subscription_id":"I-AAAGD4Y23SXR"}
+2025-03-29 00:00:31,701 - \u2705 Parsed JSON data: {'user_id': 1743106905231, 'subscription_id': 'I-AAAGD4Y23SXR'}
+2025-03-29 00:00:31,729 - \u2705 Linked subscription_id I-AAAGD4Y23SXR to user_id 1743106905231
+2025-03-29 00:00:40,425 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-29 00:00:41,474 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-29 00:00:42,817 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-29 00:00:44,124 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-29 00:00:45,543 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-29 00:00:46,822 - response: https://lite.duckduckgo.com/lite/ 200
+2025-03-29 00:00:52,729 - Received request: {"user_id":1743106905231,"keyword":"defence"}
+2025-03-29 00:00:53,704 - response: https://html.duckduckgo.com/html 200
+2025-03-29 00:00:54,985 - response: https://html.duckduckgo.com/html 200
+2025-03-29 00:00:56,263 - response: https://html.duckduckgo.com/html 200
+2025-03-29 00:00:57,544 - response: https://html.duckduckgo.com/html 200
+2025-03-29 00:00:58,842 - response: https://html.duckduckgo.com/html 200
+2025-03-29 00:05:43,096 - Bad Request: /api/crawl/paypal-webhook/
+2025-04-01 20:11:23,912 - Not Found: /
+2025-04-01 20:11:24,092 - Not Found: /favicon.ico
+2025-04-01 20:34:27,956 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\odin_backend\settings.py changed, reloading.
+2025-04-01 20:36:20,410 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-04-01 20:48:28,149 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-04-01 20:49:15,674 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-04-01 21:14:23,130 - Not Found: /api/crawl/create-order/
+2025-04-01 21:14:38,142 - Not Found: /api/crawl/create-order/
+2025-04-01 21:23:34,423 - Not Found: /api/crawl/create-order/
+2025-04-01 21:31:05,778 - Not Found: /api/crawl/create-order/
+2025-04-01 21:31:09,714 - Not Found: /api/crawl/create-order/
+2025-04-01 21:37:11,928 - Not Found: /api/crawl/create-order/
+2025-04-01 21:38:30,293 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\odin_backend\settings.py changed, reloading.
+2025-04-01 21:38:47,569 - Not Found: /api/crawl/create-order/
+2025-04-01 21:38:48,722 - Not Found: /api/crawl/create-order/
+2025-04-01 21:38:48,942 - Not Found: /api/crawl/create-order/
+2025-04-01 21:38:49,154 - Not Found: /api/crawl/create-order/
+2025-04-01 21:38:49,350 - Not Found: /api/crawl/create-order/
+2025-04-01 21:38:49,530 - Not Found: /api/crawl/create-order/
+2025-04-01 21:38:52,459 - Not Found: /api/crawl/create-order/
+2025-04-01 21:38:55,995 - Not Found: /api/crawl/create-order/
+2025-04-01 21:38:59,242 - Not Found: /api/crawl/create-order/
+2025-04-01 21:42:11,926 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-04-01 21:45:14,236 - Not Found: /api/crawl/create-order/
+2025-04-01 21:51:26,168 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-04-01 21:51:37,646 - \u274c Error creating Razorpay order: Authentication failed
+2025-04-01 21:51:37,646 - Internal Server Error: /api/crawl/create-order/
+2025-04-01 21:51:37,948 - \u274c Error creating Razorpay order: Authentication failed
+2025-04-01 21:51:37,948 - Internal Server Error: /api/crawl/create-order/
+2025-04-01 21:55:10,793 - \u274c Error creating Razorpay order: Authentication failed
+2025-04-01 21:55:10,794 - Internal Server Error: /api/crawl/create-order/
+2025-04-01 21:55:19,437 - \u274c Error creating Razorpay order: Authentication failed
+2025-04-01 21:55:19,438 - Internal Server Error: /api/crawl/create-order/
+2025-04-01 21:57:23,924 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\odin_backend\settings.py changed, reloading.
+2025-04-01 22:08:10,735 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-04-01 22:08:21,708 - \u274c Error creating Razorpay order: Amount exceeds maximum amount allowed.
+2025-04-01 22:08:21,708 - Internal Server Error: /api/crawl/create-order/
+2025-04-02 10:02:48,852 - Not Found: /
+2025-04-02 10:02:48,962 - Not Found: /favicon.ico
+2025-04-02 10:09:41,627 - Received request: {"keyword":"cat","user_id":"1743518531899"}
+2025-04-02 10:09:44,220 - response: https://lite.duckduckgo.com/lite/ 200
+2025-04-02 10:09:46,000 - response: https://lite.duckduckgo.com/lite/ 200
+2025-04-02 10:09:48,431 - response: https://lite.duckduckgo.com/lite/ 200
+2025-04-02 10:09:50,212 - response: https://lite.duckduckgo.com/lite/ 200
+2025-04-02 10:09:51,707 - response: https://lite.duckduckgo.com/lite/ 200
+2025-04-02 10:11:23,850 - Received request: {"keyword":"cat","user_id":"1743518531899"}
+2025-04-02 10:11:29,796 - response: https://html.duckduckgo.com/html 200
+2025-04-02 10:11:31,876 - response: https://html.duckduckgo.com/html 200
+2025-04-02 10:11:35,435 - response: https://html.duckduckgo.com/html 200
+2025-04-02 10:11:37,077 - response: https://html.duckduckgo.com/html 200
+2025-04-02 10:11:41,078 - response: https://html.duckduckgo.com/html 200
+2025-04-02 12:02:49,366 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-04-02 12:04:09,304 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\odin_backend\settings.py changed, reloading.
+2025-04-02 12:19:15,653 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\models.py changed, reloading.
+2025-04-02 12:39:05,882 - Not Found: /api/crawl/
+2025-04-02 12:39:16,211 - Not Found: /api/crawl/
+2025-04-02 12:39:20,672 - Not Found: /api/crawl/
+2025-04-02 12:39:20,959 - Not Found: /api/crawl/
+2025-04-02 12:40:36,228 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-04-02 12:40:41,881 - Not Found: /api/crawl/
+2025-04-02 12:43:22,886 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\odin_backend\urls.py changed, reloading.
+2025-04-02 12:43:32,809 - response: https://lite.duckduckgo.com/lite/ 200
+2025-04-02 12:43:34,411 - response: https://lite.duckduckgo.com/lite/ 200
+2025-04-02 12:43:36,035 - response: https://lite.duckduckgo.com/lite/ 200
+2025-04-02 12:43:37,523 - response: https://lite.duckduckgo.com/lite/ 200
+2025-04-02 12:43:39,042 - response: https://lite.duckduckgo.com/lite/ 200
+2025-04-02 12:43:56,211 - response: https://html.duckduckgo.com/html 200
+2025-04-02 12:43:58,044 - response: https://html.duckduckgo.com/html 200
+2025-04-02 12:43:59,449 - response: https://html.duckduckgo.com/html 200
+2025-04-02 12:44:00,834 - response: https://html.duckduckgo.com/html 200
+2025-04-02 12:44:02,539 - response: https://html.duckduckgo.com/html 200
+2025-04-02 13:09:19,347 - Not Found: /api/crawl/check-access/
+2025-04-02 13:09:19,364 - Not Found: /api/crawl/check-access/
+2025-04-02 13:10:19,109 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-04-02 13:39:19,215 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-04-02 16:02:02,311 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-04-02 16:14:43,369 - Not Found: /api/crawl/create-order/
+2025-04-02 16:14:53,849 - Not Found: /api/crawl/create-order/
+2025-04-02 16:19:58,997 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-04-02 16:20:10,116 - Not Found: /api/crawl/check-access/
+2025-04-02 16:20:10,122 - Not Found: /api/crawl/check-access/
+2025-04-02 16:20:16,533 - Not Found: /api/crawl/create-order/
+2025-04-02 16:20:28,299 - Not Found: /api/crawl/check-access/
+2025-04-02 16:20:28,304 - Not Found: /api/crawl/check-access/
+2025-04-02 16:20:38,676 - Not Found: /api/crawl/check-access/
+2025-04-02 16:20:38,682 - Not Found: /api/crawl/check-access/
+2025-04-02 16:20:49,746 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-04-02 16:22:41,943 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-04-02 16:22:47,892 - Not Found: /api/crawl/check-access/
+2025-04-02 16:22:47,898 - Not Found: /api/crawl/check-access/
+2025-04-02 16:22:49,960 - Not Found: /api/crawl/create-order/
+2025-04-02 16:22:52,399 - Not Found: /api/crawl/create-order/
+2025-04-02 16:23:03,081 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-04-02 16:23:09,947 - Not Found: /api/crawl/create-order/
+2025-04-02 16:29:28,822 - Not Found: /api/crawl/create-order/
+2025-04-02 16:29:59,594 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-04-02 16:31:03,012 - Not Found: /api/crawl/verify-payment/
+2025-04-02 16:31:28,601 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-04-02 16:32:15,349 - Internal Server Error: /api/crawl/verify-payment/
+2025-04-02 16:35:19,846 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-04-02 16:36:00,493 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\models.py changed, reloading.
+2025-04-02 16:36:53,539 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-04-02 20:06:15,192 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-04-02 20:07:51,747 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\odin_backend\settings.py changed, reloading.
+2025-04-02 20:12:51,838 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-04-02 20:30:50,250 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\odin_backend\settings.py changed, reloading.
+2025-04-02 20:38:04,789 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\odin_backend\settings.py changed, reloading.
+2025-04-02 20:38:33,998 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\odin_backend\settings.py changed, reloading.
+2025-04-02 20:40:00,839 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-04-02 20:40:27,279 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\views.py changed, reloading.
+2025-04-02 20:42:11,713 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-04-02 20:42:46,689 - C:\Users\karan\Desktop\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\crawler\urls.py changed, reloading.
+2025-04-04 14:34:44,913 - Not Found: /
+2025-04-04 14:52:01,077 - D:\BUG_Dashboard\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend (3)\odin_crawler_backend\odin_backend\odin_backend\settings.py changed, reloading.
