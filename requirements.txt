@@ -60,3 +60,5 @@ whitenoise==6.9.0
 whois==1.20240129.2
 wsproto==1.2.0
 your-app==0.1.0
+psycopg2-binary
+
